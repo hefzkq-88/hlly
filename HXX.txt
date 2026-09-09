@@ -1,0 +1,1155 @@
+﻿好消息 1综合台 (线路一480p),https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+好消息 1综合台 (线路一720p),https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+好消息 1综合台 (线路二1080p),https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
+好消息 1综合台 (线路二480p),https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+好消息 1综合台 (线路二720p),https://akamai-live.akamaized.net/osmflivech1.m3u8
+好消息 2真理台 (线路一480p),https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+好消息 2真理台 (线路一720p),https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+好消息 2真理台 (线路二1080p),https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
+好消息 2真理台 (线路二480p),https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+好消息 2真理台 (路线一1080p),https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
+好消息 2真理台 (路线二720p),https://akamai-live.akamaized.net/osmflivech2.m3u8
+希望电视台 (720p),https://cdn-kr-icn.becdn.net/hcorg_jjs5dHCTs7w/s/jsl_nGL7123If9H/master.m3u8
+创世纪01,https://vod.stemitv.org/vod/gen/01/360.m3u8
+创世纪02,https://vod.stemitv.org/vod/gen/02/360.m3u8
+创世纪03,https://vod.stemitv.org/vod/gen/03/360.m3u8
+创世纪04,https://vod.stemitv.org/vod/gen/04/360.m3u8
+创世纪05,https://vod.stemitv.org/vod/gen/05/360.m3u8
+创世纪06,https://vod.stemitv.org/vod/gen/06/360.m3u8
+创世纪07,https://vod.stemitv.org/vod/gen/07/360.m3u8
+创世纪08,https://vod.stemitv.org/vod/gen/08/360.m3u8
+创世纪09,https://vod.stemitv.org/vod/gen/09/360.m3u8
+创世纪10,https://vod.stemitv.org/vod/gen/10/360.m3u8
+创世纪11,https://vod.stemitv.org/vod/gen/11/360.m3u8
+创世纪12,https://vod.stemitv.org/vod/gen/12/360.m3u8
+创世纪13,https://vod.stemitv.org/vod/gen/13/360.m3u8
+创世纪14,https://vod.stemitv.org/vod/gen/14/360.m3u8
+创世纪15,https://vod.stemitv.org/vod/gen/15/360.m3u8
+创世纪16,https://vod.stemitv.org/vod/gen/16/360.m3u8
+创世纪17,https://vod.stemitv.org/vod/gen/17/360.m3u8
+创世纪18,https://vod.stemitv.org/vod/gen/18/360.m3u8
+创世纪19,https://vod.stemitv.org/vod/gen/19/360.m3u8
+创世纪20,https://vod.stemitv.org/vod/gen/20/360.m3u8
+创世纪21,https://vod.stemitv.org/vod/gen/21/360.m3u8
+创世纪22,https://vod.stemitv.org/vod/gen/22/360.m3u8
+创世纪23,https://vod.stemitv.org/vod/gen/23/360.m3u8
+创世纪24,https://vod.stemitv.org/vod/gen/24/360.m3u8
+创世纪25,https://vod.stemitv.org/vod/gen/25/360.m3u8
+创世纪26,https://vod.stemitv.org/vod/gen/26/360.m3u8
+创世纪27,https://vod.stemitv.org/vod/gen/27/360.m3u8
+创世纪28,https://vod.stemitv.org/vod/gen/28/360.m3u8
+创世纪29,https://vod.stemitv.org/vod/gen/29/360.m3u8
+创世纪30,https://vod.stemitv.org/vod/gen/30/360.m3u8
+创世纪31,https://vod.stemitv.org/vod/gen/31/360.m3u8
+创世纪32,https://vod.stemitv.org/vod/gen/32/360.m3u8
+创世纪33,https://vod.stemitv.org/vod/gen/33/360.m3u8
+创世纪34,https://vod.stemitv.org/vod/gen/34/360.m3u8
+创世纪35,https://vod.stemitv.org/vod/gen/35/360.m3u8
+创世纪36,https://vod.stemitv.org/vod/gen/36/360.m3u8
+创世纪37,https://vod.stemitv.org/vod/gen/37/360.m3u8
+创世纪38,https://vod.stemitv.org/vod/gen/38/360.m3u8
+创世纪39,https://vod.stemitv.org/vod/gen/39/360.m3u8
+创世纪40,https://vod.stemitv.org/vod/gen/40/360.m3u8
+创世纪41,https://vod.stemitv.org/vod/gen/41/360.m3u8
+创世纪42,https://vod.stemitv.org/vod/gen/42/360.m3u8
+创世纪43,https://vod.stemitv.org/vod/gen/43/360.m3u8
+创世纪44,https://vod.stemitv.org/vod/gen/44/360.m3u8
+创世纪45,https://vod.stemitv.org/vod/gen/45/360.m3u8
+出埃及记01,https://vod.stemitv.org/vod/exo/01/360.m3u8
+出埃及记02,https://vod.stemitv.org/vod/exo/02/360.m3u8
+出埃及记03,https://vod.stemitv.org/vod/exo/03/360.m3u8
+出埃及记04,https://vod.stemitv.org/vod/exo/04/360.m3u8
+出埃及记05,https://vod.stemitv.org/vod/exo/05/360.m3u8
+出埃及记06,https://vod.stemitv.org/vod/exo/06/360.m3u8
+出埃及记07,https://vod.stemitv.org/vod/exo/07/360.m3u8
+出埃及记08,https://vod.stemitv.org/vod/exo/08/360.m3u8
+出埃及记09,https://vod.stemitv.org/vod/exo/09/360.m3u8
+出埃及记10,https://vod.stemitv.org/vod/exo/10/360.m3u8
+出埃及记11,https://vod.stemitv.org/vod/exo/11/360.m3u8
+出埃及记12,https://vod.stemitv.org/vod/exo/12/360.m3u8
+出埃及记13,https://vod.stemitv.org/vod/exo/13/360.m3u8
+出埃及记14,https://vod.stemitv.org/vod/exo/14/360.m3u8
+出埃及记15,https://vod.stemitv.org/vod/exo/15/360.m3u8
+出埃及记16,https://vod.stemitv.org/vod/exo/16/360.m3u8
+出埃及记17,https://vod.stemitv.org/vod/exo/17/360.m3u8
+出埃及记18,https://vod.stemitv.org/vod/exo/18/360.m3u8
+出埃及记19,https://vod.stemitv.org/vod/exo/19/360.m3u8
+出埃及记20,https://vod.stemitv.org/vod/exo/20/360.m3u8
+出埃及记21,https://vod.stemitv.org/vod/exo/21/360.m3u8
+出埃及记22,https://vod.stemitv.org/vod/exo/22/360.m3u8
+出埃及记23,https://vod.stemitv.org/vod/exo/23/360.m3u8
+出埃及记24,https://vod.stemitv.org/vod/exo/24/360.m3u8
+出埃及记25,https://vod.stemitv.org/vod/exo/25/360.m3u8
+出埃及记26,https://vod.stemitv.org/vod/exo/26/360.m3u8
+01诗篇导论,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+02诗篇第二篇第1讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+03诗篇第二篇第2讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+04诗篇第二篇第3讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+05诗篇第二篇第4讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+06诗篇第八篇第1讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+07诗篇第八篇第2讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+8诗篇第八篇第3讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+09诗篇第八篇第4讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+10诗篇第八篇第5讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+11诗篇第十六篇第1讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+12诗篇第十六篇第2讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+13诗篇第十六篇第3讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+14诗篇第廿二篇第1讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+15诗篇第廿二篇第2讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+16诗篇第廿二篇第3讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+17诗篇第廿三篇第1讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+18诗篇第廿三篇第2讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+19诗篇第廿三篇第3讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+20诗篇第廿三篇第4讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+21诗篇第廿三篇第5讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+22诗篇第廿三篇第6讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+23诗篇第廿三篇第7讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+24诗篇第廿三篇第8讲,https://vod.stemitv.org/vod/malaysia/messiah/intro/360.m3u8
+25诗篇第廿四篇第1讲,https://vod.stemitv.org/vod/malaysia/messiah/24_1/360.m3u8
+26诗篇第廿四篇第2讲,https://vod.stemitv.org/vod/malaysia/messiah/24_2/360.m3u8
+27诗篇第廿四篇第3讲,https://vod.stemitv.org/vod/malaysia/messiah/24_3/360.m3u8
+28诗篇第廿四篇第4讲,https://vod.stemitv.org/vod/malaysia/messiah/24_4/360.m3u8
+29诗篇第廿四篇第5讲,https://vod.stemitv.org/vod/malaysia/messiah/24_5/360.m3u8
+30诗篇第廿四篇第6讲,https://vod.stemitv.org/vod/malaysia/messiah/24_6/360.m3u8
+31诗篇第四十篇第1讲,https://vod.stemitv.org/vod/malaysia/messiah/40_1/360.m3u8
+32诗篇第四十篇第2讲,https://vod.stemitv.org/vod/malaysia/messiah/40_2/360.m3u8
+33诗篇第四十篇第3讲,https://vod.stemitv.org/vod/malaysia/messiah/40_3/360.m3u8
+约翰福音001,https://vod.stemitv.org/vod/john/John001/360.m3u8
+约翰福音002,https://vod.stemitv.org/vod/john/John002/360.m3u8
+约翰福音003,https://vod.stemitv.org/vod/john/John003/360.m3u8
+约翰福音004,https://vod.stemitv.org/vod/john/John004/360.m3u8
+约翰福音005,https://vod.stemitv.org/vod/john/John005/360.m3u8
+约翰福音006,https://vod.stemitv.org/vod/john/John006/360.m3u8
+约翰福音007,https://vod.stemitv.org/vod/john/John007/360.m3u8
+约翰福音008,https://vod.stemitv.org/vod/john/John008/360.m3u8
+约翰福音009,https://vod.stemitv.org/vod/john/John009/360.m3u8
+约翰福音010,https://vod.stemitv.org/vod/john/John010/360.m3u8
+约翰福音011,https://vod.stemitv.org/vod/john/John011/360.m3u8
+约翰福音012,https://vod.stemitv.org/vod/john/John012/360.m3u8
+约翰福音013,https://vod.stemitv.org/vod/john/John013/360.m3u8
+约翰福音014,https://vod.stemitv.org/vod/john/John014/360.m3u8
+约翰福音015,https://vod.stemitv.org/vod/john/John015/360.m3u8
+约翰福音016,https://vod.stemitv.org/vod/john/John016/360.m3u8
+约翰福音017,https://vod.stemitv.org/vod/john/John017/360.m3u8
+约翰福音018,https://vod.stemitv.org/vod/john/John018/360.m3u8
+约翰福音019,https://vod.stemitv.org/vod/john/John019/360.m3u8
+约翰福音020,https://vod.stemitv.org/vod/john/John020/360.m3u8
+约翰福音021,https://vod.stemitv.org/vod/john/John021/360.m3u8
+约翰福音022,https://vod.stemitv.org/vod/john/John022/360.m3u8
+约翰福音023,https://vod.stemitv.org/vod/john/John023/360.m3u8
+约翰福音024,https://vod.stemitv.org/vod/john/John024/360.m3u8
+约翰福音025,https://vod.stemitv.org/vod/john/John025/360.m3u8
+约翰福音026,https://vod.stemitv.org/vod/john/John026/360.m3u8
+约翰福音027,https://vod.stemitv.org/vod/john/John027/360.m3u8
+约翰福音028,https://vod.stemitv.org/vod/john/John028/360.m3u8
+约翰福音029,https://vod.stemitv.org/vod/john/John029/360.m3u8
+约翰福音030,https://vod.stemitv.org/vod/john/John030/360.m3u8
+约翰福音031,https://vod.stemitv.org/vod/john/John031/360.m3u8
+约翰福音032,https://vod.stemitv.org/vod/john/John032/360.m3u8
+约翰福音033,https://vod.stemitv.org/vod/john/John033/360.m3u8
+约翰福音034,https://vod.stemitv.org/vod/john/John034/360.m3u8
+约翰福音035,https://vod.stemitv.org/vod/john/John035/360.m3u8
+约翰福音036,https://vod.stemitv.org/vod/john/John036/360.m3u8
+约翰福音037,https://vod.stemitv.org/vod/john/John037/360.m3u8
+约翰福音038,https://vod.stemitv.org/vod/john/John038/360.m3u8
+约翰福音039,https://vod.stemitv.org/vod/john/John039/360.m3u8
+约翰福音040,https://vod.stemitv.org/vod/john/John040/360.m3u8
+约翰福音041,https://vod.stemitv.org/vod/john/John041/360.m3u8
+约翰福音042,https://vod.stemitv.org/vod/john/John042/360.m3u8
+约翰福音043,https://vod.stemitv.org/vod/john/John043/360.m3u8
+约翰福音044,https://vod.stemitv.org/vod/john/John044/360.m3u8
+约翰福音045,https://vod.stemitv.org/vod/john/John045/360.m3u8
+约翰福音046,https://vod.stemitv.org/vod/john/John046/360.m3u8
+约翰福音047,https://vod.stemitv.org/vod/john/John047/360.m3u8
+约翰福音048,https://vod.stemitv.org/vod/john/John048/360.m3u8
+约翰福音049,https://vod.stemitv.org/vod/john/John049/360.m3u8
+约翰福音050,https://vod.stemitv.org/vod/john/John050/360.m3u8
+约翰福音051,https://vod.stemitv.org/vod/john/John051/360.m3u8
+约翰福音052,https://vod.stemitv.org/vod/john/John052/360.m3u8
+约翰福音053,https://vod.stemitv.org/vod/john/John053/360.m3u8
+约翰福音054,https://vod.stemitv.org/vod/john/John054/360.m3u8
+约翰福音055,https://vod.stemitv.org/vod/john/John055/360.m3u8
+约翰福音056,https://vod.stemitv.org/vod/john/John056/360.m3u8
+约翰福音057,https://vod.stemitv.org/vod/john/John057/360.m3u8
+约翰福音058,https://vod.stemitv.org/vod/john/John058/360.m3u8
+约翰福音059,https://vod.stemitv.org/vod/john/John059/360.m3u8
+约翰福音060,https://vod.stemitv.org/vod/john/John060/360.m3u8
+约翰福音061,https://vod.stemitv.org/vod/john/John061/360.m3u8
+约翰福音062,https://vod.stemitv.org/vod/john/John062/360.m3u8
+约翰福音063,https://vod.stemitv.org/vod/john/John063/360.m3u8
+约翰福音064,https://vod.stemitv.org/vod/john/John064/360.m3u8
+约翰福音065,https://vod.stemitv.org/vod/john/John065/360.m3u8
+约翰福音066,https://vod.stemitv.org/vod/john/John066/360.m3u8
+约翰福音067,https://vod.stemitv.org/vod/john/John067/360.m3u8
+约翰福音068,https://vod.stemitv.org/vod/john/John068/360.m3u8
+约翰福音069,https://vod.stemitv.org/vod/john/John069/360.m3u8
+约翰福音070,https://vod.stemitv.org/vod/john/John070/360.m3u8
+约翰福音071,https://vod.stemitv.org/vod/john/John071/360.m3u8
+约翰福音072,https://vod.stemitv.org/vod/john/John072/360.m3u8
+约翰福音073,https://vod.stemitv.org/vod/john/John073/360.m3u8
+约翰福音074,https://vod.stemitv.org/vod/john/John074/360.m3u8
+约翰福音075,https://vod.stemitv.org/vod/john/John075/360.m3u8
+约翰福音076,https://vod.stemitv.org/vod/john/John076/360.m3u8
+约翰福音077,https://vod.stemitv.org/vod/john/John077/360.m3u8
+约翰福音078,https://vod.stemitv.org/vod/john/John078/360.m3u8
+约翰福音079,https://vod.stemitv.org/vod/john/John079/360.m3u8
+约翰福音080,https://vod.stemitv.org/vod/john/John080/360.m3u8
+约翰福音081,https://vod.stemitv.org/vod/john/John081/360.m3u8
+约翰福音082,https://vod.stemitv.org/vod/john/John082/360.m3u8
+约翰福音083,https://vod.stemitv.org/vod/john/John083/360.m3u8
+约翰福音084,https://vod.stemitv.org/vod/john/John084/360.m3u8
+约翰福音085,https://vod.stemitv.org/vod/john/John085/360.m3u8
+约翰福音086,https://vod.stemitv.org/vod/john/John086/360.m3u8
+约翰福音087,https://vod.stemitv.org/vod/john/John087/360.m3u8
+约翰福音088,https://vod.stemitv.org/vod/john/John088/360.m3u8
+约翰福音089,https://vod.stemitv.org/vod/john/John089/360.m3u8
+约翰福音090,https://vod.stemitv.org/vod/john/John090/360.m3u8
+约翰福音091,https://vod.stemitv.org/vod/john/John091/360.m3u8
+约翰福音092,https://vod.stemitv.org/vod/john/John092/360.m3u8
+约翰福音093,https://vod.stemitv.org/vod/john/John093/360.m3u8
+约翰福音094,https://vod.stemitv.org/vod/john/John094/360.m3u8
+约翰福音095,https://vod.stemitv.org/vod/john/John095/360.m3u8
+约翰福音096,https://vod.stemitv.org/vod/john/John096/360.m3u8
+约翰福音097,https://vod.stemitv.org/vod/john/John097/360.m3u8
+约翰福音098,https://vod.stemitv.org/vod/john/John098/360.m3u8
+约翰福音099,https://vod.stemitv.org/vod/john/John099/360.m3u8
+约翰福音100,https://vod.stemitv.org/vod/john/John100/360.m3u8
+约翰福音101,https://vod.stemitv.org/vod/john/John101/360.m3u8
+约翰福音102,https://vod.stemitv.org/vod/john/John102/360.m3u8
+约翰福音103,https://vod.stemitv.org/vod/john/John103/360.m3u8
+约翰福音104,https://vod.stemitv.org/vod/john/John104/360.m3u8
+约翰福音105,https://vod.stemitv.org/vod/john/John105/360.m3u8
+约翰福音106,https://vod.stemitv.org/vod/john/John106/360.m3u8
+约翰福音107,https://vod.stemitv.org/vod/john/John107/360.m3u8
+约翰福音108,https://vod.stemitv.org/vod/john/John108/360.m3u8
+约翰福音109,https://vod.stemitv.org/vod/john/John109/360.m3u8
+约翰福音110,https://vod.stemitv.org/vod/john/John110/360.m3u8
+约翰福音111,https://vod.stemitv.org/vod/john/John111/360.m3u8
+约翰福音112,https://vod.stemitv.org/vod/john/John112/360.m3u8
+约翰福音113,https://vod.stemitv.org/vod/john/John113/360.m3u8
+约翰福音114,https://vod.stemitv.org/vod/john/John114/360.m3u8
+约翰福音115,https://vod.stemitv.org/vod/john/John115/360.m3u8
+约翰福音116,https://vod.stemitv.org/vod/john/John116/360.m3u8
+约翰福音117,https://vod.stemitv.org/vod/john/John117/360.m3u8
+约翰福音118,https://vod.stemitv.org/vod/john/John118/360.m3u8
+约翰福音119,https://vod.stemitv.org/vod/john/John119/360.m3u8
+约翰福音120,https://vod.stemitv.org/vod/john/John120/360.m3u8
+约翰福音121,https://vod.stemitv.org/vod/john/John121/360.m3u8
+约翰福音122,https://vod.stemitv.org/vod/john/John122/360.m3u8
+约翰福音123,https://vod.stemitv.org/vod/john/John123/360.m3u8
+约翰福音124,https://vod.stemitv.org/vod/john/John124/360.m3u8
+约翰福音125,https://vod.stemitv.org/vod/john/John125/360.m3u8
+约翰福音126,https://vod.stemitv.org/vod/john/John126/360.m3u8
+约翰福音127,https://vod.stemitv.org/vod/john/John127/360.m3u8
+约翰福音128,https://vod.stemitv.org/vod/john/John128/360.m3u8
+约翰福音129,https://vod.stemitv.org/vod/john/John129/360.m3u8
+约翰福音130,https://vod.stemitv.org/vod/john/John130/360.m3u8
+约翰福音131,https://vod.stemitv.org/vod/john/John131/360.m3u8
+约翰福音132,https://vod.stemitv.org/vod/john/John132/360.m3u8
+约翰福音133,https://vod.stemitv.org/vod/john/John133/360.m3u8
+约翰福音134,https://vod.stemitv.org/vod/john/John134/360.m3u8
+约翰福音135,https://vod.stemitv.org/vod/john/John135/360.m3u8
+约翰福音136,https://vod.stemitv.org/vod/john/John136/360.m3u8
+约翰福音137,https://vod.stemitv.org/vod/john/John137/360.m3u8
+约翰福音138,https://vod.stemitv.org/vod/john/John138/360.m3u8
+约翰福音139,https://vod.stemitv.org/vod/john/John139/360.m3u8
+约翰福音140,https://vod.stemitv.org/vod/john/John140/360.m3u8
+约翰福音141,https://vod.stemitv.org/vod/john/John141/360.m3u8
+约翰福音142,https://vod.stemitv.org/vod/john/John142/360.m3u8
+约翰福音143,https://vod.stemitv.org/vod/john/John143/360.m3u8
+约翰福音144,https://vod.stemitv.org/vod/john/John144/360.m3u8
+约翰福音145,https://vod.stemitv.org/vod/john/John145/360.m3u8
+约翰福音146,https://vod.stemitv.org/vod/john/John146/360.m3u8
+罗马书第001讲,https://vod.stemitv.org/vod/Romans/Rom001/360.m3u8
+罗马书第002讲,https://vod.stemitv.org/vod/Romans/Rom002/360.m3u8
+罗马书第003讲,https://vod.stemitv.org/vod/Romans/Rom003/360.m3u8
+罗马书第004讲,https://vod.stemitv.org/vod/Romans/Rom004/360.m3u8
+罗马书第005讲,https://vod.stemitv.org/vod/Romans/Rom005/360.m3u8
+罗马书第006讲,https://vod.stemitv.org/vod/Romans/Rom006/360.m3u8
+罗马书第007讲,https://vod.stemitv.org/vod/Romans/Rom007/360.m3u8
+罗马书第008讲,https://vod.stemitv.org/vod/Romans/Rom008/360.m3u8
+罗马书第009讲,https://vod.stemitv.org/vod/Romans/Rom009/360.m3u8
+罗马书第010讲,https://vod.stemitv.org/vod/Romans/Rom010/360.m3u8
+罗马书第011讲,https://vod.stemitv.org/vod/Romans/Rom011/360.m3u8
+罗马书第012讲,https://vod.stemitv.org/vod/Romans/Rom012/360.m3u8
+罗马书第013讲,https://vod.stemitv.org/vod/Romans/Rom013/360.m3u8
+罗马书第014讲,https://vod.stemitv.org/vod/Romans/Rom014/360.m3u8
+罗马书第015讲,https://vod.stemitv.org/vod/Romans/Rom015/360.m3u8
+罗马书第016讲,https://vod.stemitv.org/vod/Romans/Rom016/360.m3u8
+罗马书第017讲,https://vod.stemitv.org/vod/Romans/Rom017/360.m3u8
+罗马书第018讲,https://vod.stemitv.org/vod/Romans/Rom018/360.m3u8
+罗马书第019讲,https://vod.stemitv.org/vod/Romans/Rom019/360.m3u8
+罗马书第020讲,https://vod.stemitv.org/vod/Romans/Rom020/360.m3u8
+罗马书第021讲,https://vod.stemitv.org/vod/Romans/Rom021/360.m3u8
+罗马书第022讲,https://vod.stemitv.org/vod/Romans/Rom022/360.m3u8
+罗马书第023讲,https://vod.stemitv.org/vod/Romans/Rom023/360.m3u8
+罗马书第024讲,https://vod.stemitv.org/vod/Romans/Rom024/360.m3u8
+罗马书第025讲,https://vod.stemitv.org/vod/Romans/Rom025/360.m3u8
+罗马书第026讲,https://vod.stemitv.org/vod/Romans/Rom026/360.m3u8
+罗马书第027讲,https://vod.stemitv.org/vod/Romans/Rom027/360.m3u8
+罗马书第028讲,https://vod.stemitv.org/vod/Romans/Rom028/360.m3u8
+罗马书第029讲,https://vod.stemitv.org/vod/Romans/Rom029/360.m3u8
+罗马书第030讲,https://vod.stemitv.org/vod/Romans/Rom030/360.m3u8
+罗马书第031讲,https://vod.stemitv.org/vod/Romans/Rom031/360.m3u8
+罗马书第032讲,https://vod.stemitv.org/vod/Romans/Rom032/360.m3u8
+罗马书第033讲,https://vod.stemitv.org/vod/Romans/Rom033/360.m3u8
+罗马书第034讲,https://vod.stemitv.org/vod/Romans/Rom034/360.m3u8
+罗马书第035讲,https://vod.stemitv.org/vod/Romans/Rom035/360.m3u8
+罗马书第036讲,https://vod.stemitv.org/vod/Romans/Rom036/360.m3u8
+罗马书第037讲,https://vod.stemitv.org/vod/Romans/Rom037/360.m3u8
+罗马书第038讲,https://vod.stemitv.org/vod/Romans/Rom038/360.m3u8
+罗马书第039讲,https://vod.stemitv.org/vod/Romans/Rom039/360.m3u8
+罗马书第040讲,https://vod.stemitv.org/vod/Romans/Rom040/360.m3u8
+罗马书第041讲,https://vod.stemitv.org/vod/Romans/Rom041/360.m3u8
+罗马书第042讲,https://vod.stemitv.org/vod/Romans/Rom042/360.m3u8
+罗马书第043讲,https://vod.stemitv.org/vod/Romans/Rom043/360.m3u8
+罗马书第044讲,https://vod.stemitv.org/vod/Romans/Rom044/360.m3u8
+罗马书第045讲,https://vod.stemitv.org/vod/Romans/Rom045/360.m3u8
+罗马书第046讲,https://vod.stemitv.org/vod/Romans/Rom046/360.m3u8
+罗马书第047讲,https://vod.stemitv.org/vod/Romans/Rom047/360.m3u8
+罗马书第048讲,https://vod.stemitv.org/vod/Romans/Rom048/360.m3u8
+罗马书第049讲,https://vod.stemitv.org/vod/Romans/Rom049/360.m3u8
+罗马书第050讲,https://vod.stemitv.org/vod/Romans/Rom050/360.m3u8
+罗马书第051讲,https://vod.stemitv.org/vod/Romans/Rom051/360.m3u8
+罗马书第052讲,https://vod.stemitv.org/vod/Romans/Rom052/360.m3u8
+罗马书第053讲,https://vod.stemitv.org/vod/Romans/Rom053/360.m3u8
+罗马书第054讲,https://vod.stemitv.org/vod/Romans/Rom054/360.m3u8
+罗马书第055讲,https://vod.stemitv.org/vod/Romans/Rom055/360.m3u8
+罗马书第056讲,https://vod.stemitv.org/vod/Romans/Rom056/360.m3u8
+罗马书第057讲,https://vod.stemitv.org/vod/Romans/Rom057/360.m3u8
+罗马书第058讲,https://vod.stemitv.org/vod/Romans/Rom058/360.m3u8
+罗马书第059讲,https://vod.stemitv.org/vod/Romans/Rom059/360.m3u8
+罗马书第060讲,https://vod.stemitv.org/vod/Romans/Rom060/360.m3u8
+罗马书第061讲,https://vod.stemitv.org/vod/Romans/Rom061/360.m3u8
+罗马书第062讲,https://vod.stemitv.org/vod/Romans/Rom062/360.m3u8
+罗马书第063讲,https://vod.stemitv.org/vod/Romans/Rom063/360.m3u8
+罗马书第064讲,https://vod.stemitv.org/vod/Romans/Rom064/360.m3u8
+罗马书第065讲,https://vod.stemitv.org/vod/Romans/Rom065/360.m3u8
+罗马书第066讲,https://vod.stemitv.org/vod/Romans/Rom066/360.m3u8
+罗马书第067讲,https://vod.stemitv.org/vod/Romans/Rom067/360.m3u8
+罗马书第068讲,https://vod.stemitv.org/vod/Romans/Rom068/360.m3u8
+罗马书第069讲,https://vod.stemitv.org/vod/Romans/Rom069/360.m3u8
+罗马书第070讲,https://vod.stemitv.org/vod/Romans/Rom070/360.m3u8
+罗马书第071讲,https://vod.stemitv.org/vod/Romans/Rom071/360.m3u8
+罗马书第072讲,https://vod.stemitv.org/vod/Romans/Rom072/360.m3u8
+罗马书第073讲,https://vod.stemitv.org/vod/Romans/Rom073/360.m3u8
+罗马书第074讲,https://vod.stemitv.org/vod/Romans/Rom074/360.m3u8
+罗马书第075讲,https://vod.stemitv.org/vod/Romans/Rom075/360.m3u8
+罗马书第076讲,https://vod.stemitv.org/vod/Romans/Rom076/360.m3u8
+罗马书第077讲,https://vod.stemitv.org/vod/Romans/Rom077/360.m3u8
+罗马书第078讲,https://vod.stemitv.org/vod/Romans/Rom078/360.m3u8
+罗马书第079讲,https://vod.stemitv.org/vod/Romans/Rom079/360.m3u8
+罗马书第080讲,https://vod.stemitv.org/vod/Romans/Rom080/360.m3u8
+罗马书第081讲,https://vod.stemitv.org/vod/Romans/Rom081/360.m3u8
+罗马书第082讲,https://vod.stemitv.org/vod/Romans/Rom082/360.m3u8
+罗马书第083讲,https://vod.stemitv.org/vod/Romans/Rom083/360.m3u8
+罗马书第084讲,https://vod.stemitv.org/vod/Romans/Rom084/360.m3u8
+罗马书第085讲,https://vod.stemitv.org/vod/Romans/Rom085/360.m3u8
+罗马书第086讲,https://vod.stemitv.org/vod/Romans/Rom086/360.m3u8
+罗马书第087讲,https://vod.stemitv.org/vod/Romans/Rom087/360.m3u8
+罗马书第088讲,https://vod.stemitv.org/vod/Romans/Rom088/360.m3u8
+罗马书第089讲,https://vod.stemitv.org/vod/Romans/Rom089/360.m3u8
+罗马书第090讲,https://vod.stemitv.org/vod/Romans/Rom090/360.m3u8
+罗马书第091讲,https://vod.stemitv.org/vod/Romans/Rom091/360.m3u8
+罗马书第091讲见证,https://vod.stemitv.org/vod/Romans/Rom091t/360.m3u8
+以弗所书01,https://vod.stemitv.org/vod/Ephesians/1/360.m3u8
+以弗所书02,https://vod.stemitv.org/vod/Ephesians/2/360.m3u8
+以弗所书03,https://vod.stemitv.org/vod/Ephesians/3/360.m3u8
+以弗所书04,https://vod.stemitv.org/vod/Ephesians/4/360.m3u8
+以弗所书05Q&A,https://vod.stemitv.org/vod/Ephesians/5/360.m3u8
+以弗所书06,https://vod.stemitv.org/vod/Ephesians/6/360.m3u8
+以弗所书06Q&A,https://vod.stemitv.org/vod/Ephesians/6qa/360.m3u8
+以弗所书07,https://vod.stemitv.org/vod/Ephesians/7/360.m3u8
+以弗所书08,https://vod.stemitv.org/vod/Ephesians/8/360.m3u8
+以弗所书09,https://vod.stemitv.org/vod/Ephesians/9/360.m3u8
+以弗所书10,https://vod.stemitv.org/vod/Ephesians/10/360.m3u8
+以弗所书11,https://vod.stemitv.org/vod/Ephesians/11/360.m3u8
+以弗所书12,https://vod.stemitv.org/vod/Ephesians/12/360.m3u8
+以弗所书13,https://vod.stemitv.org/vod/Ephesians/13/360.m3u8
+以弗所书14,https://vod.stemitv.org/vod/Ephesians/14/360.m3u8
+以弗所书15,https://vod.stemitv.org/vod/Ephesians/15/360.m3u8
+以弗所书16,https://vod.stemitv.org/vod/Ephesians/16/360.m3u8
+以弗所书17,https://vod.stemitv.org/vod/Ephesians/17/360.m3u8
+以弗所书18,https://vod.stemitv.org/vod/Ephesians/18/360.m3u8
+以弗所书19,https://vod.stemitv.org/vod/Ephesians/19/360.m3u8
+以弗所书20,https://vod.stemitv.org/vod/Ephesians/20/360.m3u8
+以弗所书2006年复活节信息,https://vod.stemitv.org/vod/Ephesians/2006easter/360.m3u8
+以弗所书2006年新年信息,https://vod.stemitv.org/vod/Ephesians/2006NewYear/360.m3u8
+以弗所书21,https://vod.stemitv.org/vod/Ephesians/21/360.m3u8
+以弗所书22,https://vod.stemitv.org/vod/Ephesians/22/360.m3u8
+以弗所书23,https://vod.stemitv.org/vod/Ephesians/23/360.m3u8
+以弗所书23Q&A,https://vod.stemitv.org/vod/Ephesians/23qa/360.m3u8
+以弗所书24,https://vod.stemitv.org/vod/Ephesians/24/360.m3u8
+以弗所书25,https://vod.stemitv.org/vod/Ephesians/25/360.m3u8
+以弗所书26,https://vod.stemitv.org/vod/Ephesians/26/360.m3u8
+以弗所书27,https://vod.stemitv.org/vod/Ephesians/27/360.m3u8
+以弗所书28,https://vod.stemitv.org/vod/Ephesians/28/360.m3u8
+以弗所书29,https://vod.stemitv.org/vod/Ephesians/29/360.m3u8
+以弗所书30,https://vod.stemitv.org/vod/Ephesians/30/360.m3u8
+以弗所书31,https://vod.stemitv.org/vod/Ephesians/31/360.m3u8
+以弗所书32,https://vod.stemitv.org/vod/Ephesians/32/360.m3u8
+以弗所书33,https://vod.stemitv.org/vod/Ephesians/33/360.m3u8
+以弗所书34,https://vod.stemitv.org/vod/Ephesians/34/360.m3u8
+以弗所书35,https://vod.stemitv.org/vod/Ephesians/35/360.m3u8
+以弗所书36,https://vod.stemitv.org/vod/Ephesians/36/360.m3u8
+以弗所书37,https://vod.stemitv.org/vod/Ephesians/37/360.m3u8
+以弗所书38,https://vod.stemitv.org/vod/Ephesians/38/360.m3u8
+以弗所书39,https://vod.stemitv.org/vod/Ephesians/39/360.m3u8
+以弗所书40,https://vod.stemitv.org/vod/Ephesians/40/360.m3u8
+以弗所书41,https://vod.stemitv.org/vod/Ephesians/41/360.m3u8
+以弗所书42,https://vod.stemitv.org/vod/Ephesians/42/360.m3u8
+以弗所书43,https://vod.stemitv.org/vod/Ephesians/43/360.m3u8
+以弗所书44,https://vod.stemitv.org/vod/Ephesians/44/360.m3u8
+以弗所书45,https://vod.stemitv.org/vod/Ephesians/45/360.m3u8
+以弗所书47,https://vod.stemitv.org/vod/Ephesians/47/360.m3u8
+以弗所书48,https://vod.stemitv.org/vod/Ephesians/48/360.m3u8
+以弗所书49,https://vod.stemitv.org/vod/Ephesians/49/360.m3u8
+以弗所书50,https://vod.stemitv.org/vod/Ephesians/50/360.m3u8
+以弗所书71,https://vod.stemitv.org/vod/Ephesians/71/360.m3u8
+以弗所书72,https://vod.stemitv.org/vod/Ephesians/72/360.m3u8
+以弗所书73,https://vod.stemitv.org/vod/Ephesians/73/360.m3u8
+以弗所书74,https://vod.stemitv.org/vod/Ephesians/74/360.m3u8
+以弗所书75,https://vod.stemitv.org/vod/Ephesians/75/360.m3u8
+希伯来书001,https://vod.stemitv.org/vod/heb/001/360.m3u8
+希伯来书002,https://vod.stemitv.org/vod/heb/002/360.m3u8
+希伯来书003,https://vod.stemitv.org/vod/heb/003/360.m3u8
+希伯来书004,https://vod.stemitv.org/vod/heb/004/360.m3u8
+希伯来书005,https://vod.stemitv.org/vod/heb/005/360.m3u8
+希伯来书006,https://vod.stemitv.org/vod/heb/006/360.m3u8
+希伯来书008,https://vod.stemitv.org/vod/heb/008/360.m3u8
+希伯来书009,https://vod.stemitv.org/vod/heb/009/360.m3u8
+希伯来书010,https://vod.stemitv.org/vod/heb/010/360.m3u8
+希伯来书011,https://vod.stemitv.org/vod/heb/011/360.m3u8
+希伯来书012,https://vod.stemitv.org/vod/heb/012/360.m3u8
+希伯来书013,https://vod.stemitv.org/vod/heb/013/360.m3u8
+希伯来书014,https://vod.stemitv.org/vod/heb/014/360.m3u8
+希伯来书015,https://vod.stemitv.org/vod/heb/015/360.m3u8
+希伯来书016,https://vod.stemitv.org/vod/heb/016/360.m3u8
+希伯来书017,https://vod.stemitv.org/vod/heb/017/360.m3u8
+希伯来书018,https://vod.stemitv.org/vod/heb/018/360.m3u8
+希伯来书019,https://vod.stemitv.org/vod/heb/019/360.m3u8
+希伯来书020,https://vod.stemitv.org/vod/heb/020/360.m3u8
+希伯来书021,https://vod.stemitv.org/vod/heb/021/360.m3u8
+希伯来书022,https://vod.stemitv.org/vod/heb/022/360.m3u8
+希伯来书023,https://vod.stemitv.org/vod/heb/023/360.m3u8
+希伯来书024,https://vod.stemitv.org/vod/heb/024/360.m3u8
+希伯来书025,https://vod.stemitv.org/vod/heb/025/360.m3u8
+希伯来书026,https://vod.stemitv.org/vod/heb/026/360.m3u8
+希伯来书027,https://vod.stemitv.org/vod/heb/027/360.m3u8
+希伯来书028,https://vod.stemitv.org/vod/heb/028/360.m3u8
+希伯来书029,https://vod.stemitv.org/vod/heb/029/360.m3u8
+希伯来书030,https://vod.stemitv.org/vod/heb/030/360.m3u8
+希伯来书031,https://vod.stemitv.org/vod/heb/031/360.m3u8
+希伯来书032,https://vod.stemitv.org/vod/heb/032/360.m3u8
+希伯来书033,https://vod.stemitv.org/vod/heb/033/360.m3u8
+希伯来书034,https://vod.stemitv.org/vod/heb/034/360.m3u8
+希伯来书035,https://vod.stemitv.org/vod/heb/035/360.m3u8
+希伯来书036,https://vod.stemitv.org/vod/heb/036/360.m3u8
+希伯来书037,https://vod.stemitv.org/vod/heb/037/360.m3u8
+希伯来书038,https://vod.stemitv.org/vod/heb/038/360.m3u8
+希伯来书039,https://vod.stemitv.org/vod/heb/039/360.m3u8
+希伯来书040,https://vod.stemitv.org/vod/heb/040/360.m3u8
+希伯来书041,https://vod.stemitv.org/vod/heb/041/360.m3u8
+希伯来书042,https://vod.stemitv.org/vod/heb/042/360.m3u8
+希伯来书043,https://vod.stemitv.org/vod/heb/043/360.m3u8
+希伯来书044,https://vod.stemitv.org/vod/heb/044/360.m3u8
+希伯来书045,https://vod.stemitv.org/vod/heb/045/360.m3u8
+希伯来书046,https://vod.stemitv.org/vod/heb/046/360.m3u8
+希伯来书047,https://vod.stemitv.org/vod/heb/047/360.m3u8
+希伯来书048,https://vod.stemitv.org/vod/heb/048/360.m3u8
+希伯来书049,https://vod.stemitv.org/vod/heb/049/360.m3u8
+希伯来书050,https://vod.stemitv.org/vod/heb/050/360.m3u8
+希伯来书051,https://vod.stemitv.org/vod/heb/051/360.m3u8
+希伯来书052,https://vod.stemitv.org/vod/heb/052/360.m3u8
+希伯来书053,https://vod.stemitv.org/vod/heb/053/360.m3u8
+希伯来书054,https://vod.stemitv.org/vod/heb/054/360.m3u8
+希伯来书055,https://vod.stemitv.org/vod/heb/055/360.m3u8
+希伯来书056,https://vod.stemitv.org/vod/heb/056/360.m3u8
+希伯来书057,https://vod.stemitv.org/vod/heb/057/360.m3u8
+希伯来书058,https://vod.stemitv.org/vod/heb/058/360.m3u8
+希伯来书059,https://vod.stemitv.org/vod/heb/059/360.m3u8
+希伯来书060,https://vod.stemitv.org/vod/heb/060/360.m3u8
+希伯来书061,https://vod.stemitv.org/vod/heb/061/360.m3u8
+希伯来书062,https://vod.stemitv.org/vod/heb/062/360.m3u8
+希伯来书063,https://vod.stemitv.org/vod/heb/063/360.m3u8
+希伯来书064,https://vod.stemitv.org/vod/heb/064/360.m3u8
+希伯来书065,https://vod.stemitv.org/vod/heb/065/360.m3u8
+希伯来书066,https://vod.stemitv.org/vod/heb/066/360.m3u8
+希伯来书067,https://vod.stemitv.org/vod/heb/067/360.m3u8
+希伯来书068,https://vod.stemitv.org/vod/heb/068/360.m3u8
+希伯来书069,https://vod.stemitv.org/vod/heb/069/360.m3u8
+希伯来书070,https://vod.stemitv.org/vod/heb/070/360.m3u8
+希伯来书071,https://vod.stemitv.org/vod/heb/071/360.m3u8
+希伯来书072,https://vod.stemitv.org/vod/heb/072/360.m3u8
+希伯来书073,https://vod.stemitv.org/vod/heb/073/360.m3u8
+希伯来书074,https://vod.stemitv.org/vod/heb/074/360.m3u8
+希伯来书075,https://vod.stemitv.org/vod/heb/075/360.m3u8
+希伯来书076,https://vod.stemitv.org/vod/heb/076/360.m3u8
+希伯来书077,https://vod.stemitv.org/vod/heb/077/360.m3u8
+希伯来书078,https://vod.stemitv.org/vod/heb/078/360.m3u8
+希伯来书079,https://vod.stemitv.org/vod/heb/079/360.m3u8
+希伯来书080,https://vod.stemitv.org/vod/heb/080/360.m3u8
+希伯来书081,https://vod.stemitv.org/vod/heb/081/360.m3u8
+希伯来书082,https://vod.stemitv.org/vod/heb/082/360.m3u8
+希伯来书083,https://vod.stemitv.org/vod/heb/083/360.m3u8
+希伯来书084,https://vod.stemitv.org/vod/heb/084/360.m3u8
+希伯来书085,https://vod.stemitv.org/vod/heb/085/360.m3u8
+希伯来书086,https://vod.stemitv.org/vod/heb/086/360.m3u8
+希伯来书087,https://vod.stemitv.org/vod/heb/087/360.m3u8
+希伯来书088,https://vod.stemitv.org/vod/heb/088/360.m3u8
+希伯来书089,https://vod.stemitv.org/vod/heb/089/360.m3u8
+希伯来书090,https://vod.stemitv.org/vod/heb/090/360.m3u8
+希伯来书091,https://vod.stemitv.org/vod/heb/091/360.m3u8
+希伯来书092,https://vod.stemitv.org/vod/heb/092/360.m3u8
+希伯来书093,https://vod.stemitv.org/vod/heb/093/360.m3u8
+希伯来书094,https://vod.stemitv.org/vod/heb/094/360.m3u8
+希伯来书095,https://vod.stemitv.org/vod/heb/095/360.m3u8
+希伯来书096,https://vod.stemitv.org/vod/heb/096/360.m3u8
+希伯来书097,https://vod.stemitv.org/vod/heb/097/360.m3u8
+希伯来书098,https://vod.stemitv.org/vod/heb/098/360.m3u8
+希伯来书099,https://vod.stemitv.org/vod/heb/099/360.m3u8
+希伯来书100,https://vod.stemitv.org/vod/heb/100/360.m3u8
+希伯来书101,https://vod.stemitv.org/vod/heb/101/360.m3u8
+希伯来书102,https://vod.stemitv.org/vod/heb/102/360.m3u8
+希伯来书103,https://vod.stemitv.org/vod/heb/103/360.m3u8
+希伯来书104,https://vod.stemitv.org/vod/heb/104/360.m3u8
+希伯来书105,https://vod.stemitv.org/vod/heb/105/360.m3u8
+希伯来书106,https://vod.stemitv.org/vod/heb/106/360.m3u8
+希伯来书107,https://vod.stemitv.org/vod/heb/107/360.m3u8
+希伯来书108,https://vod.stemitv.org/vod/heb/108/360.m3u8
+希伯来书109,https://vod.stemitv.org/vod/heb/109/360.m3u8
+希伯来书110,https://vod.stemitv.org/vod/heb/110/360.m3u8
+希伯来书111,https://vod.stemitv.org/vod/heb/111/360.m3u8
+希伯来书112,https://vod.stemitv.org/vod/heb/112/360.m3u8
+希伯来书113,https://vod.stemitv.org/vod/heb/113/360.m3u8
+希伯来书114,https://vod.stemitv.org/vod/heb/114/360.m3u8
+希伯来书115,https://vod.stemitv.org/vod/heb/115/360.m3u8
+希伯来书116,https://vod.stemitv.org/vod/heb/116/360.m3u8
+希伯来书117,https://vod.stemitv.org/vod/heb/117/360.m3u8
+希伯来书118,https://vod.stemitv.org/vod/heb/118/360.m3u8
+希伯来书119,https://vod.stemitv.org/vod/heb/119/360.m3u8
+希伯来书120,https://vod.stemitv.org/vod/heb/120/360.m3u8
+希伯来书121,https://vod.stemitv.org/vod/heb/121/360.m3u8
+希伯来书122,https://vod.stemitv.org/vod/heb/122/360.m3u8
+希伯来书123,https://vod.stemitv.org/vod/heb/123/360.m3u8
+希伯来书124,https://vod.stemitv.org/vod/heb/124/360.m3u8
+希伯来书125,https://vod.stemitv.org/vod/heb/125/360.m3u8
+希伯来书126,https://vod.stemitv.org/vod/heb/126/360.m3u8
+希伯来书127,https://vod.stemitv.org/vod/heb/127/360.m3u8
+希伯来书128,https://vod.stemitv.org/vod/heb/128/360.m3u8
+希伯来书129,https://vod.stemitv.org/vod/heb/129/360.m3u8
+希伯来书130,https://vod.stemitv.org/vod/heb/130/360.m3u8
+雅各书01,https://vod.stemitv.org/vod/jam/01/360.m3u8
+雅各书02,https://vod.stemitv.org/vod/jam/02/360.m3u8
+雅各书03,https://vod.stemitv.org/vod/jam/03/360.m3u8
+雅各书04,https://vod.stemitv.org/vod/jam/04/360.m3u8
+雅各书05,https://vod.stemitv.org/vod/jam/05/360.m3u8
+雅各书06,https://vod.stemitv.org/vod/jam/06/360.m3u8
+雅各书07,https://vod.stemitv.org/vod/jam/07/360.m3u8
+雅各书08,https://vod.stemitv.org/vod/jam/08/360.m3u8
+雅各书09,https://vod.stemitv.org/vod/jam/09/360.m3u8
+雅各书10,https://vod.stemitv.org/vod/jam/10/360.m3u8
+雅各书11,https://vod.stemitv.org/vod/jam/11/360.m3u8
+雅各书12,https://vod.stemitv.org/vod/jam/12/360.m3u8
+雅各书13,https://vod.stemitv.org/vod/jam/13/360.m3u8
+雅各书14,https://vod.stemitv.org/vod/jam/14/360.m3u8
+雅各书15,https://vod.stemitv.org/vod/jam/15/360.m3u8
+雅各书16,https://vod.stemitv.org/vod/jam/16/360.m3u8
+雅各书17,https://vod.stemitv.org/vod/jam/17/360.m3u8
+雅各书18,https://vod.stemitv.org/vod/jam/18/360.m3u8
+雅各书19,https://vod.stemitv.org/vod/jam/19/360.m3u8
+雅各书20,https://vod.stemitv.org/vod/jam/20/360.m3u8
+雅各书21,https://vod.stemitv.org/vod/jam/21/360.m3u8
+雅各书22,https://vod.stemitv.org/vod/jam/22/360.m3u8
+雅各书23,https://vod.stemitv.org/vod/jam/23/360.m3u8
+雅各书24,https://vod.stemitv.org/vod/jam/24/360.m3u8
+雅各书25,https://vod.stemitv.org/vod/jam/25/360.m3u8
+雅各书26,https://vod.stemitv.org/vod/jam/26/360.m3u8
+雅各书27,https://vod.stemitv.org/vod/jam/27/360.m3u8
+雅各书28,https://vod.stemitv.org/vod/jam/28/360.m3u8
+雅各书29,https://vod.stemitv.org/vod/jam/29/360.m3u8
+雅各书30,https://vod.stemitv.org/vod/jam/30/360.m3u8
+雅各书31,https://vod.stemitv.org/vod/jam/31/360.m3u8
+雅各书32,https://vod.stemitv.org/vod/jam/32/360.m3u8
+雅各书33,https://vod.stemitv.org/vod/jam/33/360.m3u8
+雅各书34,https://vod.stemitv.org/vod/jam/34/360.m3u8
+雅各书35,https://vod.stemitv.org/vod/jam/35/360.m3u8
+雅各书36,https://vod.stemitv.org/vod/jam/36/360.m3u8
+雅各书37,https://vod.stemitv.org/vod/jam/37/360.m3u8
+雅各书38,https://vod.stemitv.org/vod/jam/38/360.m3u8
+雅各书39,https://vod.stemitv.org/vod/jam/39/360.m3u8
+雅各书40,https://vod.stemitv.org/vod/jam/40/360.m3u8
+雅各书41,https://vod.stemitv.org/vod/jam/41/360.m3u8
+雅各书42,https://vod.stemitv.org/vod/jam/42/360.m3u8
+雅各书43,https://vod.stemitv.org/vod/jam/43/360.m3u8
+雅各书44,https://vod.stemitv.org/vod/jam/44/360.m3u8
+雅各书45,https://vod.stemitv.org/vod/jam/45/360.m3u8
+雅各书Q&A1,https://vod.stemitv.org/vod/jam/QA1/360.m3u8
+雅各书Q&A2,https://vod.stemitv.org/vod/jam/QA2/360.m3u8
+雅各书Q&A3,https://vod.stemitv.org/vod/jam/QA3/360.m3u8
+雅各书Q&A4,https://vod.stemitv.org/vod/jam/QA4/360.m3u8
+雅各书Q&A5,https://vod.stemitv.org/vod/jam/QA5/360.m3u8
+雅各书Q&A6,https://vod.stemitv.org/vod/jam/QA6/360.m3u8
+雅各书Q&A7,https://vod.stemitv.org/vod/jam/QA7/360.m3u8
+雅各书Q&A8,https://vod.stemitv.org/vod/jam/QA8/360.m3u8
+彼得前书第1讲,https://vod.stemitv.org/vod/1pe/1/360.m3u8
+彼得前书第2讲,https://vod.stemitv.org/vod/1pe/2/360.m3u8
+彼得前书第3讲,https://vod.stemitv.org/vod/1pe/3/360.m3u8
+彼得前书第4讲,https://vod.stemitv.org/vod/1pe/4/360.m3u8
+彼得前书第5讲,https://vod.stemitv.org/vod/1pe/5/360.m3u8
+彼得前书第6讲,https://vod.stemitv.org/vod/1pe/6/360.m3u8
+彼得前书第7讲,https://vod.stemitv.org/vod/1pe/7/360.m3u8
+01 圣洁,https://vod.stemitv.org/vod/sanctify/01/360.m3u8
+02 为罪忧伤,https://vod.stemitv.org/vod/sanctify/02/360.m3u8
+03 成圣之忧,https://vod.stemitv.org/vod/sanctify/03/360.m3u8
+04 叹世之忧,https://vod.stemitv.org/vod/sanctify/04/360.m3u8
+05 骨肉之忧,https://vod.stemitv.org/vod/sanctify/05/360.m3u8
+06 喜乐一,https://vod.stemitv.org/vod/sanctify/06/360.m3u8
+07 喜乐二,https://vod.stemitv.org/vod/sanctify/07/360.m3u8
+08 喜乐三,https://vod.stemitv.org/vod/sanctify/08/360.m3u8
+09 喜乐四,https://vod.stemitv.org/vod/sanctify/09/360.m3u8
+10 喜乐五,https://vod.stemitv.org/vod/sanctify/10/360.m3u8
+11 忿怒一,https://vod.stemitv.org/vod/sanctify/11/360.m3u8
+12 忿怒二,https://vod.stemitv.org/vod/sanctify/12/360.m3u8
+13 忿怒三,https://vod.stemitv.org/vod/sanctify/13/360.m3u8
+14 怜悯一,https://vod.stemitv.org/vod/sanctify/14/360.m3u8
+15 怜悯二,https://vod.stemitv.org/vod/sanctify/15/360.m3u8
+16 怜悯三,https://vod.stemitv.org/vod/sanctify/16/360.m3u8
+17 渴慕一,https://vod.stemitv.org/vod/sanctify/17/360.m3u8
+18 渴慕二,https://vod.stemitv.org/vod/sanctify/18/360.m3u8
+18年回顾,https://vod.stemitv.org/vod/heb/002/360.m3u8
+19 渴慕三,https://vod.stemitv.org/vod/sanctify/19/360.m3u8
+20 失败一,https://vod.stemitv.org/vod/sanctify/20/360.m3u8
+21 失败二,https://vod.stemitv.org/vod/sanctify/21/360.m3u8
+22 失败三,https://vod.stemitv.org/vod/sanctify/22/360.m3u8
+23 成功/成就感,https://vod.stemitv.org/vod/sanctify/23/360.m3u8
+主祷文01,https://vod.stemitv.org/vod/prayer/1/360.m3u8
+主祷文02,https://vod.stemitv.org/vod/prayer/2/360.m3u8
+主祷文03,https://vod.stemitv.org/vod/prayer/3/360.m3u8
+主祷文04,https://vod.stemitv.org/vod/prayer/4/360.m3u8
+主祷文05,https://vod.stemitv.org/vod/prayer/5/360.m3u8
+主祷文06,https://vod.stemitv.org/vod/prayer/6/360.m3u8
+主祷文07,https://vod.stemitv.org/vod/prayer/7/360.m3u8
+主祷文08,https://vod.stemitv.org/vod/prayer/8/360.m3u8
+主祷文09,https://vod.stemitv.org/vod/prayer/9/360.m3u8
+主祷文10,https://vod.stemitv.org/vod/prayer/10/360.m3u8
+主祷文11,https://vod.stemitv.org/vod/prayer/11/360.m3u8
+主祷文12,https://vod.stemitv.org/vod/prayer/12/360.m3u8
+主祷文13,https://vod.stemitv.org/vod/prayer/13/360.m3u8
+主祷文14,https://vod.stemitv.org/vod/prayer/14/360.m3u8
+主祷文15,https://vod.stemitv.org/vod/prayer/15/360.m3u8
+主祷文16,https://vod.stemitv.org/vod/prayer/16/360.m3u8
+主祷文17,https://vod.stemitv.org/vod/prayer/17/360.m3u8
+主祷文18,https://vod.stemitv.org/vod/prayer/18/360.m3u8
+主祷文19,https://vod.stemitv.org/vod/prayer/19/360.m3u8
+婚前爱与xin的得胜秘诀第1讲,https://vod.stemitv.org/vod/seminar/110210/1/360.m3u8
+婚前爱与xin的得胜秘诀第2讲,https://vod.stemitv.org/vod/seminar/110210/2/360.m3u8
+婚前爱与xin的得胜秘诀第3讲,https://vod.stemitv.org/vod/seminar/110210/3/360.m3u8
+婚前爱与xin的得胜秘诀第4讲,https://vod.stemitv.org/vod/seminar/110210/4/360.m3u8
+婚前爱与xin的得胜秘诀第5讲,https://vod.stemitv.org/vod/seminar/110210/5/360.m3u8
+婚前爱与xin的得胜秘诀第6讲,https://vod.stemitv.org/vod/seminar/110210/6/360.m3u8
+婚前爱与xin的得胜秘诀第7讲,https://vod.stemitv.org/vod/seminar/110210/7/360.m3u8
+婚姻与家庭中的基督宝座第1场,https://vod.stemitv.org/vod/seminar/100400/040903/360.m3u8
+婚姻与家庭中的基督宝座第2场,https://vod.stemitv.org/vod/seminar/100400/041001/360.m3u8
+婚姻与家庭中的基督宝座第3场,https://vod.stemitv.org/vod/seminar/100400/041003/360.m3u8
+生命价值的重建,https://vod.stemitv.org/vod/rally/2003/QA/360.m3u8
+生命价值的重建』第1场,https://vod.stemitv.org/vod/rally/2003/1/360.m3u8
+生命价值的重建』第2场,https://vod.stemitv.org/vod/rally/2003/2/360.m3u8
+生命价值的重建』第3场,https://vod.stemitv.org/vod/rally/2003/3/360.m3u8
+生命价值的重建』第4场,https://vod.stemitv.org/vod/rally/2003/4/360.m3u8
+生命价值的重建』第5场,https://vod.stemitv.org/vod/rally/2003/5/360.m3u8
+2004南美巴西第1场,https://vod.stemitv.org/vod/rally/2004SA/091001/360.m3u8
+南美巴西第2场,https://vod.stemitv.org/vod/rally/2004SA/091101/360.m3u8
+南美巴西第3场,https://vod.stemitv.org/vod/rally/2004SA/091201/360.m3u8
+南美巴西第4场,https://vod.stemitv.org/vod/rally/2004SA/091202/360.m3u8
+南美巴西第5场,https://vod.stemitv.org/vod/rally/2004SA/091301/360.m3u8
+南美巴拉圭第1场,https://vod.stemitv.org/vod/rally/2004SA/091302/360.m3u8
+南美巴拉圭第2场,https://vod.stemitv.org/vod/rally/2004SA/091401/360.m3u8
+南美里约热内卢第1场,https://vod.stemitv.org/vod/rally/2004SA/091501/360.m3u8
+南美阿根廷第1场,https://vod.stemitv.org/vod/rally/2004SA/090801/360.m3u8
+南美阿根廷第2场,https://vod.stemitv.org/vod/rally/2004SA/090901/360.m3u8
+欧洲Barcelona Q&A,https://vod.stemitv.org/vod/rally/2004eu/0524qa/360.m3u8
+欧洲Barcelona 第1场,https://vod.stemitv.org/vod/rally/2004eu/05231/360.m3u8
+欧洲Barcelona 第2场,https://vod.stemitv.org/vod/rally/2004eu/05232/360.m3u8
+欧洲Barcelona 第3场,https://vod.stemitv.org/vod/rally/2004eu/0524/360.m3u8
+欧洲Birmmingham 3,https://vod.stemitv.org/vod/rally/2004eu/0516/360.m3u8
+欧洲Birmmingham Q&A,https://vod.stemitv.org/vod/rally/2004eu/0515qa/360.m3u8
+欧洲Birmmingham QA 2,https://vod.stemitv.org/vod/rally/2004eu/0516qa/360.m3u8
+欧洲Birmmingham 第1场,https://vod.stemitv.org/vod/rally/2004eu/0515/360.m3u8
+欧洲Birmmingham 第2场,https://vod.stemitv.org/vod/rally/2004eu/05152/360.m3u8
+欧洲Dusseldof,https://vod.stemitv.org/vod/rally/2004eu/0521/360.m3u8
+欧洲Dusseldof Q&A,https://vod.stemitv.org/vod/rally/2004eu/0521qa/360.m3u8
+欧洲London Q&A,https://vod.stemitv.org/vod/rally/2004eu/0513qa/360.m3u8
+欧洲London Q&A 2,https://vod.stemitv.org/vod/rally/2004eu/0514qa/360.m3u8
+欧洲London 第2场,https://vod.stemitv.org/vod/rally/2004eu/0514/360.m3u8
+欧洲Madrid QA,https://vod.stemitv.org/vod/rally/2004eu/0522qa/360.m3u8
+欧洲Madrid1,https://vod.stemitv.org/vod/rally/2004eu/0522/360.m3u8
+欧洲Milan Q&A,https://vod.stemitv.org/vod/rally/2004eu/0518qa/360.m3u8
+欧洲Milan Q&A 2,https://vod.stemitv.org/vod/rally/2004eu/0519qa/360.m3u8
+欧洲Milan 第1场,https://vod.stemitv.org/vod/rally/2004eu/0518/360.m3u8
+欧洲Milan 第2场,https://vod.stemitv.org/vod/rally/2004eu/0519/360.m3u8
+欧洲Paris Q&A,https://vod.stemitv.org/vod/rally/2004eu/0527qa/360.m3u8
+欧洲Paris第1场,https://vod.stemitv.org/vod/rally/2004eu/0526/360.m3u8
+欧洲Paris第2场,https://vod.stemitv.org/vod/rally/2004eu/0527/360.m3u8
+欧洲ROTTERDAM,https://vod.stemitv.org/vod/rally/2004eu/0525/360.m3u8
+欧洲Vienna,https://vod.stemitv.org/vod/rally/2004eu/0520/360.m3u8
+欧洲Vienna Q&A,https://vod.stemitv.org/vod/rally/2004eu/0520qa/360.m3u8
+2006台北圣诞『耶稣－贫穷的王』,https://vod.stemitv.org/vod/rally/2006TPE/360.m3u8
+『耶稣是谁 』东京,https://vod.stemitv.org/vod/rally/2006whoisjesus/360.m3u8
+『耶稣是谁 』东京-1,https://vod.stemitv.org/vod/rally/2007whoisjesus/360.m3u8
+『耶稣是谁 』东京-2,https://vod.stemitv.org/vod/rally/2007whoisjesus/360.m3u8
+『耶稣是谁 』东京-3,https://vod.stemitv.org/vod/rally/2007whoisjesus/360.m3u8
+『耶稣是谁』Birmingham 02撒旦的投资与基督教的衰微,https://vod.stemitv.org/vod/rally/2009bir/090501/360.m3u8
+『耶稣是谁』Birmingham 03Q&A,https://vod.stemitv.org/vod/rally/2009bir/090502/360.m3u8
+『耶稣是谁』Birmingham 04第2场,https://vod.stemitv.org/vod/rally/2009bir/090503/360.m3u8
+『耶稣是谁』Birmingham 05主日第一场,https://vod.stemitv.org/vod/rally/2009bir/090601/360.m3u8
+『耶稣是谁』Birmingham 06主日第二场,https://vod.stemitv.org/vod/rally/2009bir/090602/360.m3u8
+『耶稣是谁』Birmingham 07主日第三场,https://vod.stemitv.org/vod/rally/2009bir/090603/360.m3u8
+『耶稣是谁』台北第2场,https://vod.stemitv.org/vod/rally/2008whoisjesus/2/360.m3u8
+『耶稣是谁』台北第3场,https://vod.stemitv.org/vod/rally/2008whoisjesus/3/360.m3u8
+『耶稣是谁』台北第4场,https://vod.stemitv.org/vod/rally/2008whoisjesus/4/360.m3u8
+『耶稣是谁』台北第5场,https://vod.stemitv.org/vod/rally/2008whoisjesus/youth/360.m3u8
+『耶稣是谁』台北第6场,https://vod.stemitv.org/vod/rally/2008whoisjesus/child/360.m3u8
+『耶稣是谁』台北第7场,https://vod.stemitv.org/vod/rally/2008whoisjesus/id1/360.m3u8
+『耶稣是谁』台北第8场,https://vod.stemitv.org/vod/rally/2008whoisjesus/id2/360.m3u8
+2007美国Phoenix 1,https://vod.stemitv.org/vod/rally/2007US/0126R/360.m3u8
+2008『耶稣是谁』台北第1场,https://vod.stemitv.org/vod/rally/2008whoisjesus/1/360.m3u8
+2009『耶稣是谁』Birmingham 01 第1场,https://vod.stemitv.org/vod/rally/2009bir/090401/360.m3u8
+2010Denver『信仰与人生的重建』 Denver 1,https://vod.stemitv.org/vod/rally/2010denver/031901/360.m3u8
+2011Philadelphia 『信仰的能力』1 第1场,https://vod.stemitv.org/vod/rally/2011ph/040101/360.m3u8
+2012 Indiana『悔改与天国』第1场,https://vod.stemitv.org/vod/rally/2012IND/091401/360.m3u8
+2013美国南佛州『人的尊严、堕落与救赎』主日崇拜,https://vod.stemitv.org/vod/rally/2013SFsunday/360.m3u8
+2015北美『人的尊严、堕落与救赎』达拉斯 第1场,https://vod.stemitv.org/vod/rally/2015us/092500/360.m3u8
+2016台湾『人的尊严、堕落与救赎』1,https://vod.stemitv.org/vod/rally/2016rally/04080/360.m3u8
+2017 圣诞『天上的圣火』,https://vod.stemitv.org/vod/rally/2017xmas/360.m3u8
+2018 圣诞『圣爱临到人间』台北场,https://vod.stemitv.org/vod/rally/2018xmas/1210/360.m3u8
+2019圣诞『奇妙的救主』台北场,https://vod.stemitv.org/vod/rally/2019xmas/1216/360.m3u8
+Boston『信仰与人生的重建』Q&A,https://vod.stemitv.org/vod/rally/2009boston/0912qa/360.m3u8
+Boston『信仰与人生的重建』主日崇拜 Q&A,https://vod.stemitv.org/vod/rally/2009boston/0913qa/360.m3u8
+Boston『信仰与人生的重建』主日崇拜 第1场,https://vod.stemitv.org/vod/rally/2009boston/09131/360.m3u8
+Boston『信仰与人生的重建』主日崇拜 第2场,https://vod.stemitv.org/vod/rally/2009boston/09132/360.m3u8
+Boston『信仰与人生的重建』主日崇拜 第3场,https://vod.stemitv.org/vod/rally/2009boston/09133/360.m3u8
+Boston『信仰与人生的重建』主日崇拜 第4场,https://vod.stemitv.org/vod/rally/2009boston/09134/360.m3u8
+Boston『信仰与人生的重建』撒旦的投资与基督教的衰微,https://vod.stemitv.org/vod/rally/2009boston/0912/360.m3u8
+Boston『信仰与人生的重建』第1场,https://vod.stemitv.org/vod/rally/2009boston/0910/360.m3u8
+Boston『信仰与人生的重建』第2场,https://vod.stemitv.org/vod/rally/2009boston/0911/360.m3u8
+Boston『信仰与人生的重建』第3场,https://vod.stemitv.org/vod/rally/2009boston/0912s/360.m3u8
+Denver『信仰与人生的重建』 Denver 2,https://vod.stemitv.org/vod/rally/2010denver/032001/360.m3u8
+Denver『信仰与人生的重建』Denver主日崇拜,https://vod.stemitv.org/vod/rally/2010denver/032101/360.m3u8
+Houston 『耶稣是谁』Houston Q&A,https://vod.stemitv.org/vod/rally/2009houston/030702/360.m3u8
+Houston 『耶稣是谁』Houston 主日崇拜 不动摇的人生,https://vod.stemitv.org/vod/rally/2009houston/030802/360.m3u8
+Houston 『耶稣是谁』Houston 教牧讲座 骄傲与谦卑,https://vod.stemitv.org/vod/rally/2009houston/030901/360.m3u8
+Houston 『耶稣是谁』Houston 第1场,https://vod.stemitv.org/vod/rally/2009houston/030601/360.m3u8
+Houston 『耶稣是谁』Houston 第2场,https://vod.stemitv.org/vod/rally/2009houston/030703/360.m3u8
+Houston 『耶稣是谁』Houston 第3场,https://vod.stemitv.org/vod/rally/2009houston/030801/360.m3u8
+Houston 『耶稣是谁』撒旦的投资与基督教的觉醒,https://vod.stemitv.org/vod/rally/2009houston/030701/360.m3u8
+Indiana『悔改与天国』Q&A,https://vod.stemitv.org/vod/rally/2012IND/091503/360.m3u8
+Indiana『悔改与天国』主日崇拜 1,https://vod.stemitv.org/vod/rally/2012IND/091601/360.m3u8
+Indiana『悔改与天国』主日崇拜 2,https://vod.stemitv.org/vod/rally/2012IND/091602/360.m3u8
+Indiana『悔改与天国』当代文化的偏差,https://vod.stemitv.org/vod/rally/2012IND/091502/360.m3u8
+Indiana『悔改与天国』第2场,https://vod.stemitv.org/vod/rally/2012IND/091501/360.m3u8
+Indiana『悔改与天国』第3场,https://vod.stemitv.org/vod/rally/2012IND/091603/360.m3u8
+Philadelphia 『信仰的能力』2 福音与文化,https://vod.stemitv.org/vod/rally/2011ph/040201/360.m3u8
+Philadelphia 『信仰的能力』3 福音与文化Q&A,https://vod.stemitv.org/vod/rally/2011ph/040202/360.m3u8
+Philadelphia 『信仰的能力』4 Q&A,https://vod.stemitv.org/vod/rally/2011ph/040203/360.m3u8
+Philadelphia 『信仰的能力』5 第2场,https://vod.stemitv.org/vod/rally/2011ph/040204/360.m3u8
+Philadelphia 『信仰的能力』6 主日讲道第1场,https://vod.stemitv.org/vod/rally/2011ph/040301/360.m3u8
+Philadelphia 『信仰的能力』7 主日讲道第2场,https://vod.stemitv.org/vod/rally/2011ph/040302/360.m3u8
+Philadelphia 『信仰的能力』8 第3场,https://vod.stemitv.org/vod/rally/2011ph/040303/360.m3u8
+San Diego『信仰的能力』1. 第1场,https://vod.stemitv.org/vod/rally/2011san/1/360.m3u8
+San Diego『信仰的能力』2. 神学讲座(上),https://vod.stemitv.org/vod/rally/2011san/2/360.m3u8
+San Diego『信仰的能力』3. 神学讲座(下),https://vod.stemitv.org/vod/rally/2011san/3/360.m3u8
+San Diego『信仰的能力』4. Q&A,https://vod.stemitv.org/vod/rally/2011san/4/360.m3u8
+San Diego『信仰的能力』5. 第2场,https://vod.stemitv.org/vod/rally/2011san/5/360.m3u8
+San Diego『信仰的能力』6. 主日讲道,https://vod.stemitv.org/vod/rally/2011san/6/360.m3u8
+San Diego『信仰的能力』7. 第3场,https://vod.stemitv.org/vod/rally/2011san/7/360.m3u8
+Vancouver 『耶稣是谁』主日崇拜,https://vod.stemitv.org/vod/rally/2009vancouver/031501/360.m3u8
+Vancouver 『耶稣是谁』基督信仰与中国未来,https://vod.stemitv.org/vod/rally/2009vancouver/031403/360.m3u8
+Vancouver 『耶稣是谁』基督信仰与中国未来 Q&A,https://vod.stemitv.org/vod/rally/2009vancouver/031404/360.m3u8
+Vancouver 『耶稣是谁』第1场,https://vod.stemitv.org/vod/rally/2009vancouver/031201/360.m3u8
+Vancouver 『耶稣是谁』第2场,https://vod.stemitv.org/vod/rally/2009vancouver/031301/360.m3u8
+Vancouver 『耶稣是谁』第3场,https://vod.stemitv.org/vod/rally/2009vancouver/031401/360.m3u8
+Vancouver 『耶稣是谁』第3场 Q&A,https://vod.stemitv.org/vod/rally/2009vancouver/031402/360.m3u8
+Vancouver『信仰的能力』第1场,https://vod.stemitv.org/vod/rally/2012van/1/360.m3u8
+Vancouver『信仰的能力』第2场,https://vod.stemitv.org/vod/rally/2012van/2/360.m3u8
+Vancouver『信仰的能力』第3场,https://vod.stemitv.org/vod/rally/2012van/3/360.m3u8
+
+
+
+全台湾青成年生命更新大会台中场,https://vod.stemitv.org/vod/rally/2012taiwan/121010/360.m3u8
+全台湾青成年生命更新大会台北场短片,https://vod.stemitv.org/vod/rally/2012taiwan/121020/360.m3u8
+全台湾青成年生命更新大会高雄基督教会,https://vod.stemitv.org/vod/rally/2012taiwan/121014/360.m3u8
+
+
+北美『人的尊严、堕落与救赎』主日崇拜,https://vod.stemitv.org/vod/rally/2015us/092701/360.m3u8
+北美『人的尊严、堕落与救赎』圣荷西 第1场,https://vod.stemitv.org/vod/rally/2015us/100200/360.m3u8
+北美『人的尊严、堕落与救赎』圣荷西 第2场,https://vod.stemitv.org/vod/rally/2015us/100302/360.m3u8
+北美『人的尊严、堕落与救赎』圣荷西 第3场,https://vod.stemitv.org/vod/rally/2015us/100402/360.m3u8
+北美『人的尊严、堕落与救赎』圣荷西主日崇拜,https://vod.stemitv.org/vod/rally/2015us/100401/360.m3u8
+北美『人的尊严、堕落与救赎』圣荷西教牧讲座,https://vod.stemitv.org/vod/rally/2015us/100500/360.m3u8
+北美『人的尊严、堕落与救赎』圣荷西神学讲座,https://vod.stemitv.org/vod/rally/2015us/100301/360.m3u8
+北美『人的尊严、堕落与救赎』旧金山 第1场,https://vod.stemitv.org/vod/rally/2015us/092900/360.m3u8
+北美『人的尊严、堕落与救赎』旧金山 第2场,https://vod.stemitv.org/vod/rally/2015us/093000/360.m3u8
+北美『人的尊严、堕落与救赎』旧金山 第3场,https://vod.stemitv.org/vod/rally/2015us/100100/360.m3u8
+北美『人的尊严、堕落与救赎』神学讲座,https://vod.stemitv.org/vod/rally/2015us/092601/360.m3u8
+北美『人的尊严、堕落与救赎』达拉斯 第2场,https://vod.stemitv.org/vod/rally/2015us/092602/360.m3u8
+北美『人的尊严、堕落与救赎』达拉斯 第3场,https://vod.stemitv.org/vod/rally/2015us/092702/360.m3u8
+华盛顿『悔改与天国』1 第1场,https://vod.stemitv.org/vod/rally/2012DC/1/360.m3u8
+华盛顿『悔改与天国』2 神学讲座：传福音牧养与教导,https://vod.stemitv.org/vod/rally/2012DC/2/360.m3u8
+华盛顿『悔改与天国』3 Q&A,https://vod.stemitv.org/vod/rally/2012DC/3/360.m3u8
+华盛顿『悔改与天国』4 第2场,https://vod.stemitv.org/vod/rally/2012DC/4/360.m3u8
+华盛顿『悔改与天国』5 第3场,https://vod.stemitv.org/vod/rally/2012DC/5/360.m3u8
+华盛顿『悔改与天国』6 主日讲道 罗13：8 『亏欠』,https://vod.stemitv.org/vod/rally/2012DC/6/360.m3u8
+南佛州「当代文化的偏差与重建」第1场,https://vod.stemitv.org/vod/rally/2013SFseminar/1/360.m3u8
+南佛州「当代文化的偏差与重建」第2场,https://vod.stemitv.org/vod/rally/2013SFseminar/2/360.m3u8
+受难记,https://vod.stemitv.org/vod/rally/2004p/rally/360.m3u8
+受难记 Q&A,https://vod.stemitv.org/vod/rally/2004p/qa/360.m3u8
+台湾『人的尊严、堕落与救赎 10,https://vod.stemitv.org/vod/rally/2016rally/04162/360.m3u8
+台湾『人的尊严、堕落与救赎 11,https://vod.stemitv.org/vod/rally/2016rally/04172/360.m3u8
+台湾『人的尊严、堕落与救赎 12,https://vod.stemitv.org/vod/rally/2016rally/04171/360.m3u8
+台湾『人的尊严、堕落与救赎 2,https://vod.stemitv.org/vod/rally/2016rally/04091/360.m3u8
+台湾『人的尊严、堕落与救赎 3,https://vod.stemitv.org/vod/rally/2016rally/04092/360.m3u8
+台湾『人的尊严、堕落与救赎 4,https://vod.stemitv.org/vod/rally/2016rally/04101/360.m3u8
+台湾『人的尊严、堕落与救赎 5,https://vod.stemitv.org/vod/rally/2016rally/04103/360.m3u8
+台湾『人的尊严、堕落与救赎 6,https://vod.stemitv.org/vod/rally/2016rally/04102/360.m3u8
+台湾『人的尊严、堕落与救赎 7,https://vod.stemitv.org/vod/rally/2016rally/04110/360.m3u8
+台湾『人的尊严、堕落与救赎 8,https://vod.stemitv.org/vod/rally/2016rally/04150/360.m3u8
+台湾『人的尊严、堕落与救赎 9,https://vod.stemitv.org/vod/rally/2016rally/04161/360.m3u8
+圣诞『原道』1台北场,https://vod.stemitv.org/vod/rally/2011xmas/1220/360.m3u8
+圣诞『原道』2台中场,https://vod.stemitv.org/vod/rally/2011xmas/1221/360.m3u8
+圣诞『圣爱临到人间』高雄场,https://vod.stemitv.org/vod/rally/2018xmas/1211/360.m3u8
+圣诞『奇妙的救主』高雄场,https://vod.stemitv.org/vod/rally/2019xmas/1217/360.m3u8
+圣诞『星光的引导』,https://vod.stemitv.org/vod/rally/2009xmas/360.m3u8
+圣诞【全能的神在人间】台北场,https://vod.stemitv.org/vod/rally/2015xmas/01/360.m3u8
+圣诞【全能的神在人间】高雄场,https://vod.stemitv.org/vod/rally/2015xmas/02/360.m3u8
+圣诞台北,https://vod.stemitv.org/vod/rally/2004tour/1220/360.m3u8
+圣诞新加波,https://vod.stemitv.org/vod/rally/2004tour/1226/360.m3u8
+归正福音运动-印尼教会复兴第1场,https://vod.stemitv.org/vod/rally/2012NYC/1/360.m3u8
+归正福音运动-印尼教会复兴第2场,https://vod.stemitv.org/vod/rally/2012NYC/2/360.m3u8
+旧金山『信仰与人生的重建』Q&A,https://vod.stemitv.org/vod/rally/2010sf/091102/360.m3u8
+旧金山『信仰与人生的重建』主日崇拜,https://vod.stemitv.org/vod/rally/2010sf/091201/360.m3u8
+旧金山『信仰与人生的重建』撒旦的投资与基督教的衰微,https://vod.stemitv.org/vod/rally/2010sf/091101/360.m3u8
+旧金山『信仰与人生的重建』教牧讲座,https://vod.stemitv.org/vod/rally/2010sf/091301/360.m3u8
+旧金山『信仰与人生的重建』第一场,https://vod.stemitv.org/vod/rally/2010sf/091001/360.m3u8
+旧金山『信仰与人生的重建』第三场,https://vod.stemitv.org/vod/rally/2010sf/091202/360.m3u8
+旧金山『信仰与人生的重建』第二场,https://vod.stemitv.org/vod/rally/2010sf/091103/360.m3u8
+洛杉矶「人的尊严、堕落与救赎」第1场,https://vod.stemitv.org/vod/rally/2013la_1/360.m3u8
+洛杉矶「人的尊严、堕落与救赎」第2场,https://vod.stemitv.org/vod/rally/2013la_2/360.m3u8
+洛杉矶「当代文化的偏差与重建」,https://vod.stemitv.org/vod/rally/2013LAseminar/360.m3u8
+澳洲『信仰与人生的重建』 Sydney 第2场,https://vod.stemitv.org/vod/rally/2010aus/082802/360.m3u8
+澳洲『信仰与人生的重建』 Sydney 第3场,https://vod.stemitv.org/vod/rally/2010aus/082901/360.m3u8
+澳洲『信仰与人生的重建』Adelaide Q&A,https://vod.stemitv.org/vod/rally/2010aus/082102/360.m3u8
+澳洲『信仰与人生的重建』Adelaide 第1场,https://vod.stemitv.org/vod/rally/2010aus/081901/360.m3u8
+澳洲『信仰与人生的重建』Adelaide 第2场,https://vod.stemitv.org/vod/rally/2010aus/082001/360.m3u8
+澳洲『信仰与人生的重建』Adelaide 第3场,https://vod.stemitv.org/vod/rally/2010aus/082103/360.m3u8
+澳洲『信仰与人生的重建』Melbourne Q&A,https://vod.stemitv.org/vod/rally/2010aus/082502/360.m3u8
+澳洲『信仰与人生的重建』Melbourne 第1场,https://vod.stemitv.org/vod/rally/2010aus/082301a/360.m3u8
+澳洲『信仰与人生的重建』Melbourne 第2场,https://vod.stemitv.org/vod/rally/2010aus/082402/360.m3u8
+澳洲『信仰与人生的重建』Melbourne 第3场,https://vod.stemitv.org/vod/rally/2010aus/082403/360.m3u8
+澳洲『信仰与人生的重建』Melbourne 第4场,https://vod.stemitv.org/vod/rally/2010aus/082503/360.m3u8
+澳洲『信仰与人生的重建』Perth Q&A,https://vod.stemitv.org/vod/rally/2010aus/081802/360.m3u8
+澳洲『信仰与人生的重建』Perth 第1场,https://vod.stemitv.org/vod/rally/2010aus/081601/360.m3u8
+澳洲『信仰与人生的重建』Perth 第2场,https://vod.stemitv.org/vod/rally/2010aus/081702/360.m3u8
+澳洲『信仰与人生的重建』Perth 第3场,https://vod.stemitv.org/vod/rally/2010aus/081803/360.m3u8
+澳洲『信仰与人生的重建』Sydney Q&A,https://vod.stemitv.org/vod/rally/2010aus/082801/360.m3u8
+澳洲『信仰与人生的重建』Sydney 第1场,https://vod.stemitv.org/vod/rally/2010aus/082701/360.m3u8
+澳洲『信仰与人生的重建』主日崇拜,https://vod.stemitv.org/vod/rally/2010aus/082201/360.m3u8
+澳洲『信仰与人生的重建』唐牧师访谈,https://vod.stemitv.org/vod/rally/2010aus/081701/360.m3u8
+澳洲『信仰与人生的重建』撒旦的投资与基督教的衰微,https://vod.stemitv.org/vod/rally/2010aus/081801/360.m3u8
+澳洲『信仰与人生的重建』撒旦的投资与基督教的衰微,https://vod.stemitv.org/vod/rally/2010aus/082101/360.m3u8
+澳洲『信仰与人生的重建』撒旦的投资与基督教的衰微,https://vod.stemitv.org/vod/rally/2010aus/082401/360.m3u8
+澳洲『信仰与人生的重建』访谈,https://vod.stemitv.org/vod/rally/2010aus/082501/360.m3u8
+纽西兰 Auckland -1,https://vod.stemitv.org/vod/rally/2007NZ/033001/360.m3u8
+纽西兰 Auckland -3,https://vod.stemitv.org/vod/rally/2007NZ/040101/360.m3u8
+纽西兰 Auckland 培灵会,https://vod.stemitv.org/vod/rally/2007NZ/032900/360.m3u8
+纽西兰 Auckland 教牧讲座,https://vod.stemitv.org/vod/rally/2007NZ/033002/360.m3u8
+纽西兰 威灵顿,https://vod.stemitv.org/vod/rally/2007NZ/032800/360.m3u8
+纽西兰Auckland -2,https://vod.stemitv.org/vod/rally/2007NZ/033101/360.m3u8
+纽西兰Auckland 主日崇拜,https://vod.stemitv.org/vod/rally/2007NZ/040102/360.m3u8
+纽西兰Auckland 圣乐讲座,https://vod.stemitv.org/vod/rally/2007NZ/033102/360.m3u8
+纽西兰基督城 -1,https://vod.stemitv.org/vod/rally/2007NZ/032600/360.m3u8
+纽西兰基督城 -2,https://vod.stemitv.org/vod/rally/2007NZ/032700/360.m3u8
+美国 Philadelphia 1短讲,https://vod.stemitv.org/vod/rally/2007US/0201short/360.m3u8
+美国 Philadelphia 4 Q&A,https://vod.stemitv.org/vod/rally/2007US/0203RQA/360.m3u8
+美国 Philadelphia 5讲座 Q&A,https://vod.stemitv.org/vod/rally/2007US/0203SQA/360.m3u8
+美国 Philadelphia 7主日短讲,https://vod.stemitv.org/vod/rally/2007US/0204R/360.m3u8
+美国Philadelphia 2,https://vod.stemitv.org/vod/rally/2007US/0202R/360.m3u8
+美国Philadelphia 3,https://vod.stemitv.org/vod/rally/2007US/0203R/360.m3u8
+美国Philadelphia 6讲座：基督徒的职业观,https://vod.stemitv.org/vod/rally/2007US/0203S/360.m3u8
+美国Philadelphia 8,https://vod.stemitv.org/vod/rally/2007US/0204RQA/360.m3u8
+美国Phoenix 2,https://vod.stemitv.org/vod/rally/2007US/0127R/360.m3u8
+美国Phoenix 3 Q&A,https://vod.stemitv.org/vod/rally/2007US/0127RQA/360.m3u8
+美国Phoenix 4讲座：圣灵论,https://vod.stemitv.org/vod/rally/2007US/0127S/360.m3u8
+美国Phoenix 5讲座：圣灵论 Q&A,https://vod.stemitv.org/vod/rally/2007US/0127QA/360.m3u8
+美国Phoenix 6主日讲道,https://vod.stemitv.org/vod/rally/2007US/0128R/360.m3u8
+美国Phoenix 7,https://vod.stemitv.org/vod/rally/2007US/0128RQA/360.m3u8
+美国Phoenix 8 Q&A,https://vod.stemitv.org/vod/rally/2007US/0128Sunday/360.m3u8
+美国南佛州『人的尊严、堕落与救赎』1,https://vod.stemitv.org/vod/rally/2013sf/1/360.m3u8
+美国南佛州『人的尊严、堕落与救赎』2,https://vod.stemitv.org/vod/rally/2013sf/2/360.m3u8
+美国南佛州『人的尊严、堕落与救赎』3,https://vod.stemitv.org/vod/rally/2013sf/3/360.m3u8
+美国布 Philadelphia  Q&A,https://vod.stemitv.org/vod/rally/2007US/0204Sunday/360.m3u8
+耶稣是谁』Birmingham 08第3场,https://vod.stemitv.org/vod/rally/2009bir/090604/360.m3u8
+芝加哥『信仰的能力』01 第1场,https://vod.stemitv.org/vod/rally/2011chicago/090901/360.m3u8
+芝加哥『信仰的能力』02 神学讲座－撒但的投资与基督教的崩溃,https://vod.stemitv.org/vod/rally/2011chicago/091001/360.m3u8
+芝加哥『信仰的能力』03 Q&A,https://vod.stemitv.org/vod/rally/2011chicago/091002/360.m3u8
+芝加哥『信仰的能力』04 第2场,https://vod.stemitv.org/vod/rally/2011chicago/091003/360.m3u8
+芝加哥『信仰的能力』05 主日讲道,https://vod.stemitv.org/vod/rally/2011chicago/091101/360.m3u8
+芝加哥『信仰的能力』06 第3场,https://vod.stemitv.org/vod/rally/2011chicago/091102/360.m3u8
+青成年暨儿童生命更新大会1,https://vod.stemitv.org/vod/rally/2013taiwan/131010/360.m3u8
+青成年暨儿童生命更新大会10,https://vod.stemitv.org/vod/rally/2013taiwan/131018p/360.m3u8
+青成年暨儿童生命更新大会11,https://vod.stemitv.org/vod/rally/2013taiwan/131019/360.m3u8
+青成年暨儿童生命更新大会12,https://vod.stemitv.org/vod/rally/2013taiwan/131020/360.m3u8
+青成年暨儿童生命更新大会13,https://vod.stemitv.org/vod/rally/2013taiwan/131008/360.m3u8
+青成年暨儿童生命更新大会14,https://vod.stemitv.org/vod/rally/2013taiwan/131009/360.m3u8
+青成年暨儿童生命更新大会15,https://vod.stemitv.org/vod/rally/2013taiwan/131009p/360.m3u8
+青成年暨儿童生命更新大会2,https://vod.stemitv.org/vod/rally/2013taiwan/131011/360.m3u8
+青成年暨儿童生命更新大会3,https://vod.stemitv.org/vod/rally/2013taiwan/131012/360.m3u8
+青成年暨儿童生命更新大会4,https://vod.stemitv.org/vod/rally/2013taiwan/131013/360.m3u8
+青成年暨儿童生命更新大会5,https://vod.stemitv.org/vod/rally/2013taiwan/131015/360.m3u8
+青成年暨儿童生命更新大会6,https://vod.stemitv.org/vod/rally/2013taiwan/131016/360.m3u8
+青成年暨儿童生命更新大会7,https://vod.stemitv.org/vod/rally/2013taiwan/131017p/360.m3u8
+青成年暨儿童生命更新大会8,https://vod.stemitv.org/vod/rally/2013taiwan/131017/360.m3u8
+青成年暨儿童生命更新大会9,https://vod.stemitv.org/vod/rally/2013taiwan/131018/360.m3u8
+香港『人的尊严、堕落与救赎』第1场,https://vod.stemitv.org/vod/rally/2015hk/01/360.m3u8
+香港『人的尊严、堕落与救赎』第2场,https://vod.stemitv.org/vod/rally/2015hk/02/360.m3u8
+香港『人的尊严、堕落与救赎』见证,https://vod.stemitv.org/vod/rally/2015hk/03/360.m3u8
+香港『信仰的能力』第1场,https://vod.stemitv.org/vod/rally/2009hkrally/1/360.m3u8
+香港『信仰的能力』第2场,https://vod.stemitv.org/vod/rally/2009hkrally/2/360.m3u8
+香港『信仰的能力』第3场,https://vod.stemitv.org/vod/rally/2009hkrally/3/360.m3u8
+香港『信仰的能力』第4场 儿童场,https://vod.stemitv.org/vod/rally/2009hkrally/4/360.m3u8
+香港『信仰的能力』第5场,https://vod.stemitv.org/vod/rally/2009hkrally/5/360.m3u8
+香港『爱与人生』第1场(儿童场),https://vod.stemitv.org/vod/rally/2011HK/1/360.m3u8
+香港『爱与人生』第2场,https://vod.stemitv.org/vod/rally/2011HK/2/360.m3u8
+香港『爱与人生』第3场,https://vod.stemitv.org/vod/rally/2011HK/3/360.m3u8
+香港『爱与人生』第4场,https://vod.stemitv.org/vod/rally/2011HK/4/360.m3u8
+香港圣诞『耶稣－贫穷的王』,https://vod.stemitv.org/vod/rally/2006HK/360.m3u8
+马来西亚圣诞『全能的神在人间』,https://vod.stemitv.org/vod/malaysia/xmas/2015/360.m3u8
+马来西亚圣诞『和平之君』,https://vod.stemitv.org/vod/malaysia/xmas/2014/360.m3u8
+马来西亚圣诞『神在历史的显现』,https://vod.stemitv.org/vod/malaysia/xmas/2012/360.m3u8
+
+央视频道,#genre#
+CCTV1,http://45.192.97.170:8880/play/1.m3u8
+
+CCTV1,http://223.83.177.142:1234/608807420
+CCTV1,http://116.147.106.100:7788//608807420
+CCTV2,http://45.192.97.170:8880/play/2.m3u8
+
+CCTV2,http://223.83.177.142:1234/631780532
+CCTV2,http://116.147.106.100:7788//631780532
+CCTV3,http://45.192.97.170:8880/play/3.m3u8
+
+CCTV3,http://223.83.177.142:1234/624878271
+CCTV3,http://116.147.106.100:7788//624878271
+CCTV4,http://45.192.97.170:8880/play/4.m3u8
+
+CCTV4,http://223.83.177.142:1234/631780421
+CCTV4,http://116.147.106.100:7788//631780421
+
+CCTV4欧洲,http://45.192.97.170:8880/play/18.m3u8
+
+CCTV4欧洲,http://223.83.177.142:1234/608807419
+CCTV4欧洲,http://116.147.106.100:7788//608807419
+CCTV4美洲,http://45.192.97.170:8880/play/19.m3u8
+
+CCTV4美洲,http://223.83.177.142:1234/608807416
+CCTV4美洲,http://116.147.106.100:7788//608807416
+CCTV5,http://45.192.97.170:8880/play/5.m3u8
+
+CCTV5,http://223.83.177.142:1234/641886683
+CCTV5,http://116.147.106.100:7788//641886683
+CCTV5+,http://45.192.97.170:8880/play/6.m3u8
+
+CCTV5+,http://223.83.177.142:1234/641886773
+CCTV5+,http://116.147.106.100:7788//641886773
+CCTV6,http://45.192.97.170:8880/play/7.m3u8
+
+CCTV6,http://223.83.177.142:1234/624878396
+CCTV6,http://116.147.106.100:7788//624878396
+CCTV7,http://45.192.97.170:8880/play/8.m3u8
+
+CCTV7,http://223.83.177.142:1234/673168121
+CCTV7,http://116.147.106.100:7788//673168121
+CCTV8,http://45.192.97.170:8880/play/9.m3u8
+
+CCTV8,http://223.83.177.142:1234/624878356
+CCTV8,http://116.147.106.100:7788//624878356
+
+CCTV9,http://223.83.177.142:1234/673168140
+CCTV9,http://116.147.106.100:7788//673168140
+CCTV10,http://45.192.97.170:8880/play/11.m3u8
+
+CCTV10,http://223.83.177.142:1234/624878405
+CCTV10,http://116.147.106.100:7788//624878405
+CCTV11,http://45.192.97.170:8880/play/12.m3u8
+
+CCTV11,http://223.83.177.142:1234/667987558
+CCTV11,http://116.147.106.100:7788//667987558
+CCTV12,http://45.192.97.170:8880/play/13.m3u8
+
+CCTV12,http://223.83.177.142:1234/673168185
+CCTV12,http://116.147.106.100:7788//673168185
+CCTV13,http://45.192.97.170:8880/play/14.m3u8
+
+CCTV13,http://223.83.177.142:1234/608807423
+CCTV13,http://116.147.106.100:7788//608807423
+CCTV14,http://45.192.97.170:8880/play/15.m3u8
+
+CCTV14,http://223.83.177.142:1234/624878440
+CCTV14,http://116.147.106.100:7788//624878440
+CCTV15,http://45.192.97.170:8880/play/16.m3u8
+
+CCTV15,http://223.83.177.142:1234/673168223
+CCTV15,http://116.147.106.100:7788//673168223
+CCTV17,http://45.192.97.170:8880/play/17.m3u8
+
+CCTV17,http://223.83.177.142:1234/673168256
+CCTV17,http://116.147.106.100:7788/673168256
+
+4k,,#genre#
+CCTV16-4K,http://demo.medrun.cn:4022/rtp/233.18.204.114:5140
+欢笑剧场4K,http://demo.medrun.cn:4022/rtp/233.18.204.115:5140
+BesTV电影介绍,http://demo.medrun.cn:4022/rtp/233.18.204.116:5140
+BesTV4K电影,http://demo.medrun.cn:4022/rtp/233.18.204.169:5140
+BesTV4K记录,http://demo.medrun.cn:4022/rtp/233.18.204.170:5140
+BesTV4K动画,http://demo.medrun.cn:4022/rtp/233.18.204.171:5140
+CHC动作电影,http://demo.medrun.cn:4022/rtp/233.18.204.174:5140
+CHC动作电影,http://116.147.106.100:7788/644368714
+CHC家庭影院,http://demo.medrun.cn:4022/rtp/233.18.204.173:5140
+CHC家庭影院,http://116.147.106.100:7788/644368373
+CHC影迷电影,http://demo.medrun.cn:4022/rtp/233.18.204.175:5140
+CHC影迷电影,http://116.147.106.100:7788/952383261
+港台电影,#genre#
+成龙电影,http://107.150.60.122/live/lbcl.m3u8
+周润发电影,http://107.150.60.122/live/lbzrf.m3u8
+周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
+刘德华电影,https://live.ottiptv.cc/huya/11342424
+古天乐电影,https://live.ottiptv.cc/huya/29982675
+李连杰电影,https://live.ottiptv.cc/huya/11342390
+甄子丹电影,https://live.ottiptv.cc/huya/11352935
+狄仁杰系列,https://live.ottiptv.cc/huya/30080229
+沈腾电影,https://live.ottiptv.cc/huya/11601968
+黄渤电影,https://live.ottiptv.cc/huya/11352876
+强森电影,https://live.ottiptv.cc/huya/21059581
+王晶电影,https://live.ottiptv.cc/huya/11602058
+金庸武侠,https://live.ottiptv.cc/huya/11342435
+功夫电影,https://live.ottiptv.cc/huya/11352941
+贺岁电影,https://live.ottiptv.cc/huya/11601986
+嫣然影厅频道,https://live.ottiptv.cc/huya/11601977
+女神系列频道,https://live.ottiptv.cc/huya/11336571
+经典女神频道,https://live.ottiptv.cc/huya/11352909
+许氏三杰频道,https://live.ottiptv.cc/huya/11602033
+经典港片频道,https://live.ottiptv.cc/huya/11352965
+镖行天下频道,https://live.ottiptv.cc/huya/11352969
+蘑菇影厅频道,https://live.ottiptv.cc/huya/11601981
+经典香港电影,http://116.147.106.100:7788/625703337
+新片放映厅,http://116.147.106.100:7788/619495952
+南方影视,http://116.147.106.100:7788/614961829
+翡翠台720P,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
+翡翠台720P,http://211.97.63.3:3443/hls/541/index.m3u8
+翡翠台1080P,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台1080P,http://r.jdshipin.com/qrfbg
+翡翠台4K,http://r.jdshipin.com/n90gt
+翡翠台1080,http://r.jdshipin.com/GeWKr
+翡翠台1080P,https://cdn6.cc.cd/163189/fct
+凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰中文,https://cdn6.cc.cd/163189/fhzw
+凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
+凤凰中文,http://218.206.193.218:8888/hls/67/index.m3u8
+凤凰中文,https://cdn.qd.je/163189/fhzw
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://k.061899.xyz/k.php?id=fhzx
+凤凰中文,https://cdn.qd.je/163189/fhzw
+凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯,https://cdn6.cc.cd/163189/fhzx
+凤凰资讯,http://218.206.193.218:8888/hls/66/index.m3u8
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
+凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+凤凰资讯,https://cdn.qd.je/163189/fhzx
+东森电影,http://45.192.97.170:8880/play/1240.m3u8
+卫视频道,#genre#
+
+三沙卫视,http://223.83.177.142:1234/961023778
+三沙卫视,http://116.147.106.100:7788//961023778
+
+东南卫视,http://223.83.177.142:1234/849116810
+东南卫视,http://116.147.106.100:7788//849116810
+
+东方卫视,http://223.83.177.142:1234/651632648
+东方卫视,http://116.147.106.100:7788//651632648
+
+兵团卫视,http://223.83.177.142:1234/956923145
+兵团卫视,http://116.147.106.100:7788//956923145
+
+北京卫视,http://223.83.177.142:1234/630287636
+北京卫视,http://116.147.106.100:7788//630287636
+
+吉林卫视,http://223.83.177.142:1234/947472500
+吉林卫视,http://116.147.106.100:7788//947472500
+大湾区卫视,http://45.192.97.170:8880/play/23.m3u8
+
+大湾区卫视,http://223.83.177.142:1234/608917627
+大湾区卫视,http://116.147.106.100:7788//608917627
+
+宁夏卫视,http://223.83.177.142:1234/738910535
+宁夏卫视,http://116.147.106.100:7788//738910535
+
+广东卫视,http://223.83.177.142:1234/608831231
+广东卫视,http://116.147.106.100:7788//608831231
+
+江苏卫视,http://223.83.177.142:1234/623899368
+江苏卫视,http://116.147.106.100:7788//623899368
+
+江西卫视,http://223.83.177.142:1234/783847495
+江西卫视,http://116.147.106.100:7788//783847495
+
+河北卫视,http://223.83.177.142:1234/962042070
+河北卫视,http://116.147.106.100:7788//962042070
+
+河南卫视,http://223.83.177.142:1234/790187291
+河南卫视,http://116.147.106.100:7788//790187291
+浙江卫视,http://45.192.97.170:8880/play/426.m3u8
+
+海南卫视,http://223.83.177.142:1234/947472502
+海南卫视,http://116.147.106.100:7788//947472502
+
+海南卫视,http://223.83.177.142:1234/849119120
+海南卫视,http://116.147.106.100:7788//849119120
+
+湖北卫视,http://223.83.177.142:1234/947472496
+湖北卫视,http://116.147.106.100:7788//947472496
+
+辽宁卫视,http://223.83.177.142:1234/630291707
+辽宁卫视,http://116.147.106.100:7788//630291707
+
+重庆卫视,http://223.83.177.142:1234/738910914
+重庆卫视,http://116.147.106.100:7788//738910914
+
+陕西卫视,http://223.83.177.142:1234/738910838
+陕西卫视,http://116.147.106.100:7788//738910838
+
+青海卫视,http://223.83.177.142:1234/947472506
+青海卫视,http://116.147.106.100:7788//947472506
+
+黑龙江卫视,http://223.83.177.142:1234/738906901
+黑龙江卫视,http://116.147.106.100:7788//738906901
+上海节目,#genre#
+
+上海新闻,http://223.83.177.142:1234/651632657
+上海新闻,http://116.147.106.100:7788//651632657
+
+上海新闻,http://223.83.177.142:1234/639731826
+上海新闻,http://116.147.106.100:7788//639731826
+
+东方影视,http://223.83.177.142:1234/617290047
+东方影视,http://116.147.106.100:7788//617290047
+
+第一财经,http://223.83.177.142:1234/608780988
+第一财经,http://116.147.106.100:7788//608780988
+
+财富天下,http://223.83.177.142:1234/956923159
+财富天下,http://116.147.106.100:7788//956923159
+
